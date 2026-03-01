@@ -1,0 +1,1001 @@
+date,product,category,revenue,quantity,region,customer_segment,source,rating,return_flag
+2024-01-01,Keyboard,Accessories,316.85,3,East,Budget,Partner,1.7,0
+2024-01-01,Laptop,Electronics,415.03,16,North,Premium,Social Media,1.2,0
+2024-01-01,Keyboard,Accessories,1340.23,9,South,Premium,In-Store,3.4,0
+2024-01-02,Monitor,Electronics,652.87,8,South,Premium,Website,4.4,0
+2024-01-02,Camera,Electronics,1217.9,13,South,Standard,Social Media,1.1,0
+2024-01-02,Speaker,Accessories,1016.2,17,West,Budget,Social Media,1.2,0
+2024-01-03,Tablet,Electronics,1396.06,17,East,Premium,Mobile App,3.3,0
+2024-01-04,Laptop,Electronics,1879.85,17,South,Premium,Mobile App,4.3,0
+2024-01-05,Smartwatch,Wearables,1802.95,1,South,Standard,Website,2.3,0
+2024-01-05,Smartphone,Electronics,1327.02,8,North,Budget,Social Media,2.4,0
+2024-01-05,Smartwatch,Wearables,2064.86,19,North,Budget,Mobile App,3.4,0
+2024-01-05,Monitor,Electronics,1105.61,6,East,Standard,In-Store,2.1,0
+2024-01-06,Keyboard,Accessories,2246.95,3,East,Standard,In-Store,1.1,0
+2024-01-07,Smartphone,Electronics,224.64,5,Central,Budget,Social Media,3.9,0
+2024-01-08,Tablet,Electronics,2388.92,13,North,Standard,Mobile App,3.5,0
+2024-01-08,Tablet,Electronics,1654.0,15,Central,Budget,Website,3.3,0
+2024-01-09,Laptop,Electronics,981.18,14,West,Budget,Website,4.0,0
+2024-01-09,Monitor,Electronics,533.03,16,Central,Premium,Website,3.7,0
+2024-01-10,Camera,Electronics,1224.0,18,South,Premium,In-Store,1.8,0
+2024-01-10,Monitor,Electronics,526.67,11,Central,Budget,Mobile App,2.4,0
+2024-01-12,Keyboard,Accessories,457.51,3,East,Budget,Mobile App,1.5,0
+2024-01-12,Smartwatch,Wearables,1562.51,10,West,Budget,In-Store,1.5,0
+2024-01-13,Tablet,Electronics,1331.56,10,South,Budget,Website,3.7,0
+2024-01-14,Smartwatch,Wearables,1691.74,16,Central,Budget,Website,4.4,0
+2024-01-15,Smartwatch,Wearables,2327.53,12,West,Budget,Social Media,4.9,0
+2024-01-15,Smartwatch,Wearables,1354.04,2,West,Standard,Partner,3.5,0
+2024-01-15,Tablet,Electronics,1473.28,9,South,Budget,Mobile App,1.7,0
+2024-01-16,Mouse,Accessories,269.58,3,Central,Standard,Mobile App,1.4,0
+2024-01-17,Headphones,Accessories,1808.21,15,West,Standard,Mobile App,4.3,0
+2024-01-18,Keyboard,Accessories,1029.77,3,West,Budget,Partner,3.3,0
+2024-01-19,Mouse,Accessories,2442.98,19,North,Budget,Social Media,3.5,0
+2024-01-20,Keyboard,Accessories,2066.78,18,West,Standard,Partner,4.1,0
+2024-01-21,Smartphone,Electronics,1330.08,8,North,Standard,Website,3.8,0
+2024-01-21,Monitor,Electronics,351.9,17,Central,Budget,Website,4.3,0
+2024-01-22,Monitor,Electronics,2155.57,8,Central,Budget,Mobile App,1.2,0
+2024-01-22,Speaker,Accessories,2009.46,7,Central,Standard,In-Store,4.0,0
+2024-01-23,Monitor,Electronics,502.23,7,East,Standard,Mobile App,4.4,0
+2024-01-23,Tablet,Electronics,773.43,3,Central,Standard,In-Store,2.1,0
+2024-01-25,Camera,Electronics,1993.85,1,West,Premium,Partner,3.6,0
+2024-01-25,Laptop,Electronics,503.81,4,South,Standard,Website,2.3,0
+2024-01-26,Speaker,Accessories,2298.49,5,North,Premium,In-Store,4.8,0
+2024-01-26,Laptop,Electronics,1090.09,1,East,Budget,Partner,1.1,0
+2024-01-27,Keyboard,Accessories,263.25,15,Central,Budget,Website,3.3,0
+2024-01-28,Laptop,Electronics,2048.58,5,Central,Standard,In-Store,1.7,0
+2024-01-28,Laptop,Electronics,965.1,13,South,Budget,Mobile App,3.8,0
+2024-01-28,Speaker,Accessories,1339.92,8,South,Budget,Mobile App,1.7,0
+2024-01-28,Smartphone,Electronics,325.15,8,East,Budget,Mobile App,1.9,0
+2024-01-29,Smartwatch,Wearables,56.33,5,North,Budget,Partner,3.0,0
+2024-02-02,Monitor,Electronics,1613.06,9,Central,Premium,Mobile App,4.7,0
+2024-02-02,Monitor,Electronics,1312.18,1,East,Premium,Social Media,1.8,0
+2024-02-03,Tablet,Electronics,1504.17,4,West,Standard,Website,1.6,0
+2024-02-03,Speaker,Accessories,1994.67,3,West,Standard,Partner,4.0,0
+2024-02-04,Tablet,Electronics,1634.18,2,East,Standard,Mobile App,3.0,0
+2024-02-04,Camera,Electronics,478.19,8,Central,Budget,Website,4.6,0
+2024-02-05,Camera,Electronics,933.89,9,East,Budget,In-Store,1.6,0
+2024-02-05,Tablet,Electronics,2269.43,2,Central,Premium,Mobile App,3.6,0
+2024-02-06,Speaker,Accessories,1936.36,14,South,Premium,Website,1.9,0
+2024-02-06,Tablet,Electronics,1413.76,14,East,Standard,Social Media,1.6,0
+2024-02-06,Monitor,Electronics,676.33,4,Central,Premium,In-Store,3.7,0
+2024-02-07,Mouse,Accessories,790.05,6,East,Premium,Social Media,3.4,0
+2024-02-08,Headphones,Accessories,1843.3,11,East,Premium,Website,4.0,0
+2024-02-08,Laptop,Electronics,2135.38,3,Central,Premium,Social Media,2.2,0
+2024-02-08,Headphones,Accessories,1694.99,8,Central,Premium,Website,2.8,0
+2024-02-08,Speaker,Accessories,2033.35,3,North,Standard,Website,2.6,0
+2024-02-09,Headphones,Accessories,1928.31,14,East,Standard,Social Media,4.9,0
+2024-02-10,Camera,Electronics,416.77,13,West,Premium,Website,2.2,0
+2024-02-10,Keyboard,Accessories,1088.66,13,East,Standard,Mobile App,2.2,0
+2024-02-10,Laptop,Electronics,424.81,2,East,Budget,Website,2.4,0
+2024-02-11,Smartwatch,Wearables,626.33,13,Central,Premium,Partner,3.3,0
+2024-02-12,Speaker,Accessories,2179.69,19,East,Budget,Website,2.0,0
+2024-02-12,Laptop,Electronics,1208.59,6,East,Standard,Partner,4.7,0
+2024-02-15,Headphones,Accessories,1361.63,16,West,Standard,Website,2.1,0
+2024-02-15,Camera,Electronics,487.19,2,Central,Budget,Website,4.6,1
+2024-02-16,Smartphone,Electronics,815.07,8,East,Standard,Social Media,1.4,0
+2024-02-16,Mouse,Accessories,614.1,17,South,Premium,Mobile App,3.6,0
+2024-02-16,Smartwatch,Wearables,555.16,2,North,Budget,Mobile App,4.6,0
+2024-02-16,Mouse,Accessories,1613.0,10,West,Premium,In-Store,1.7,0
+2024-02-17,Laptop,Electronics,679.37,16,East,Budget,Social Media,4.9,0
+2024-02-17,Camera,Electronics,1598.44,6,South,Standard,Social Media,2.8,0
+2024-02-18,Camera,Electronics,193.21,2,East,Budget,Mobile App,4.8,0
+2024-02-20,Headphones,Accessories,397.35,2,East,Budget,Social Media,3.7,0
+2024-02-20,Monitor,Electronics,722.62,13,Central,Premium,Mobile App,2.2,0
+2024-02-20,Headphones,Accessories,1512.76,15,Central,Standard,Social Media,1.8,0
+2024-02-22,Monitor,Electronics,1705.81,2,Central,Premium,Website,2.2,0
+2024-02-22,Monitor,Electronics,1134.66,7,South,Standard,Mobile App,1.4,0
+2024-02-22,Smartwatch,Wearables,1142.19,3,East,Premium,Mobile App,1.6,0
+2024-02-22,Headphones,Accessories,1825.07,8,North,Budget,Partner,1.4,0
+2024-02-23,Smartphone,Electronics,88.76,14,West,Premium,Social Media,2.7,0
+2024-02-23,Tablet,Electronics,885.67,7,Central,Standard,Social Media,4.2,0
+2024-02-23,Tablet,Electronics,2055.83,7,Central,Standard,Mobile App,1.6,0
+2024-02-25,Headphones,Accessories,1527.89,1,East,Budget,Website,1.5,0
+2024-02-25,Headphones,Accessories,876.21,17,East,Standard,Website,3.6,0
+2024-02-27,Mouse,Accessories,2268.54,9,South,Premium,Website,1.8,0
+2024-02-27,Smartwatch,Wearables,1942.93,13,South,Budget,Social Media,1.4,0
+2024-02-27,Headphones,Accessories,698.99,19,Central,Standard,Partner,1.7,1
+2024-02-27,Mouse,Accessories,1630.96,19,East,Standard,Mobile App,4.7,0
+2024-02-28,Monitor,Electronics,1509.59,17,North,Premium,In-Store,4.3,0
+2024-03-01,Camera,Electronics,1032.91,10,West,Premium,Partner,2.4,0
+2024-03-02,Camera,Electronics,949.04,10,East,Budget,In-Store,3.6,1
+2024-03-03,Monitor,Electronics,891.72,4,East,Standard,Partner,3.1,0
+2024-03-03,Speaker,Accessories,1562.03,8,South,Premium,Website,3.7,0
+2024-03-05,Mouse,Accessories,1133.9,18,West,Budget,Social Media,3.7,0
+2024-03-05,Mouse,Accessories,2088.06,14,Central,Standard,In-Store,3.5,1
+2024-03-07,Monitor,Electronics,1690.53,18,East,Standard,Partner,2.1,0
+2024-03-09,Smartphone,Electronics,221.33,14,Central,Budget,Social Media,1.2,0
+2024-03-09,Keyboard,Accessories,1618.41,15,East,Budget,In-Store,2.8,1
+2024-03-09,Laptop,Electronics,714.31,4,Central,Premium,Mobile App,4.6,0
+2024-03-10,Monitor,Electronics,1502.39,13,West,Standard,Partner,3.3,0
+2024-03-12,Headphones,Accessories,1716.32,8,South,Standard,Mobile App,4.3,0
+2024-03-12,Headphones,Accessories,615.53,18,West,Standard,Website,5.0,0
+2024-03-13,Smartwatch,Wearables,1169.3,12,North,Budget,Mobile App,1.7,0
+2024-03-14,Monitor,Electronics,516.3,14,South,Premium,Mobile App,3.8,1
+2024-03-15,Smartwatch,Wearables,178.23,2,West,Standard,Partner,3.7,0
+2024-03-15,Monitor,Electronics,977.27,18,North,Budget,Website,4.9,0
+2024-03-15,Mouse,Accessories,939.21,2,East,Standard,Mobile App,4.9,1
+2024-03-16,Laptop,Electronics,2488.93,11,East,Premium,Social Media,3.7,0
+2024-03-16,Mouse,Accessories,1143.56,9,Central,Standard,In-Store,2.0,0
+2024-03-18,Keyboard,Accessories,867.25,12,South,Premium,Mobile App,4.2,0
+2024-03-18,Camera,Electronics,1472.16,17,East,Premium,Website,1.4,0
+2024-03-18,Tablet,Electronics,267.48,15,South,Standard,Mobile App,4.1,0
+2024-03-20,Monitor,Electronics,2406.08,17,East,Standard,In-Store,4.6,0
+2024-03-21,Keyboard,Accessories,1605.65,18,Central,Premium,Website,2.5,0
+2024-03-21,Camera,Electronics,1899.35,6,West,Budget,Partner,3.5,0
+2024-03-21,Speaker,Accessories,467.67,17,Central,Premium,Website,2.7,0
+2024-03-23,Laptop,Electronics,1053.22,18,North,Standard,Partner,2.8,1
+2024-03-25,Smartwatch,Wearables,1085.59,8,East,Standard,Website,2.2,0
+2024-03-26,Smartwatch,Wearables,2063.43,9,North,Budget,In-Store,4.0,0
+2024-03-26,Mouse,Accessories,53.03,6,North,Premium,In-Store,4.7,0
+2024-03-26,Headphones,Accessories,787.09,5,South,Premium,Website,4.8,0
+2024-03-28,Camera,Electronics,2454.03,12,East,Premium,Mobile App,1.7,0
+2024-03-30,Speaker,Accessories,1213.47,11,North,Standard,In-Store,4.5,0
+2024-03-30,Keyboard,Accessories,987.19,1,West,Premium,Partner,3.9,0
+2024-03-30,Laptop,Electronics,343.58,11,North,Budget,Partner,2.0,1
+2024-03-31,Camera,Electronics,2436.7,19,West,Standard,Social Media,1.3,0
+2024-04-01,Speaker,Accessories,99.06,9,South,Standard,Partner,2.1,0
+2024-04-01,Tablet,Electronics,1856.09,2,North,Premium,Social Media,4.6,0
+2024-04-02,Monitor,Electronics,1933.07,12,Central,Budget,Website,3.5,0
+2024-04-03,Smartwatch,Wearables,646.96,4,South,Standard,Website,3.9,0
+2024-04-04,Keyboard,Accessories,1695.32,4,West,Standard,Website,2.0,0
+2024-04-04,Smartwatch,Wearables,277.68,18,South,Premium,Mobile App,3.9,0
+2024-04-05,Keyboard,Accessories,679.77,15,North,Premium,Mobile App,1.1,0
+2024-04-05,Mouse,Accessories,1980.36,19,East,Budget,Social Media,2.5,0
+2024-04-05,Headphones,Accessories,2168.48,13,East,Premium,Partner,3.5,0
+2024-04-07,Keyboard,Accessories,1540.79,19,West,Budget,Partner,1.6,0
+2024-04-08,Smartwatch,Wearables,1291.75,17,West,Standard,Website,4.3,1
+2024-04-08,Mouse,Accessories,440.29,6,East,Budget,In-Store,1.9,0
+2024-04-08,Keyboard,Accessories,204.62,16,West,Budget,Mobile App,3.6,0
+2024-04-08,Tablet,Electronics,338.24,12,South,Budget,Mobile App,2.6,0
+2024-04-08,Headphones,Accessories,607.03,19,Central,Standard,Website,3.4,0
+2024-04-08,Keyboard,Accessories,887.1,5,Central,Premium,Mobile App,1.4,0
+2024-04-08,Mouse,Accessories,983.23,17,South,Standard,Website,1.1,0
+2024-04-08,Camera,Electronics,898.49,1,Central,Premium,Social Media,4.6,0
+2024-04-09,Smartphone,Electronics,635.69,10,North,Budget,Partner,2.1,1
+2024-04-09,Speaker,Accessories,1298.82,15,South,Budget,In-Store,4.3,0
+2024-04-12,Smartphone,Electronics,2071.95,11,West,Budget,Partner,5.0,0
+2024-04-12,Smartphone,Electronics,735.27,13,South,Budget,Partner,1.8,0
+2024-04-12,Laptop,Electronics,2358.85,5,East,Budget,Social Media,2.1,0
+2024-04-13,Tablet,Electronics,2189.67,1,West,Premium,Mobile App,3.7,0
+2024-04-13,Camera,Electronics,446.32,12,East,Premium,In-Store,4.9,0
+2024-04-14,Monitor,Electronics,1976.38,11,West,Budget,Mobile App,4.7,0
+2024-04-15,Keyboard,Accessories,1457.74,17,Central,Standard,Partner,3.0,0
+2024-04-15,Speaker,Accessories,1438.11,4,South,Standard,Website,4.2,0
+2024-04-15,Headphones,Accessories,1008.05,15,North,Budget,Partner,1.5,1
+2024-04-16,Camera,Electronics,1277.82,9,West,Premium,Mobile App,4.9,0
+2024-04-16,Smartwatch,Wearables,1023.09,19,West,Standard,Partner,4.9,0
+2024-04-18,Monitor,Electronics,1372.34,19,East,Standard,Website,1.7,0
+2024-04-18,Laptop,Electronics,1588.48,12,Central,Standard,Social Media,2.2,0
+2024-04-20,Laptop,Electronics,1702.04,5,East,Budget,Mobile App,1.4,0
+2024-04-20,Camera,Electronics,1354.58,10,East,Standard,Partner,2.1,0
+2024-04-20,Mouse,Accessories,1817.48,17,Central,Standard,Mobile App,4.3,0
+2024-04-21,Smartphone,Electronics,396.13,5,North,Standard,Social Media,2.5,0
+2024-04-22,Smartwatch,Wearables,569.36,16,East,Standard,Partner,1.4,0
+2024-04-22,Laptop,Electronics,2055.9,7,East,Premium,Partner,2.4,0
+2024-04-22,Speaker,Accessories,840.19,9,West,Budget,Mobile App,4.9,0
+2024-04-22,Laptop,Electronics,106.09,3,Central,Budget,Mobile App,3.5,0
+2024-04-24,Headphones,Accessories,426.79,15,South,Premium,Website,2.7,0
+2024-04-25,Keyboard,Accessories,597.86,16,North,Premium,Social Media,1.7,0
+2024-04-26,Laptop,Electronics,2395.44,18,North,Budget,Website,4.9,0
+2024-04-26,Headphones,Accessories,1453.95,14,Central,Standard,Partner,4.3,0
+2024-04-27,Camera,Electronics,2335.19,3,West,Standard,Mobile App,2.1,0
+2024-04-27,Camera,Electronics,1459.15,12,West,Budget,Partner,1.3,0
+2024-04-27,Monitor,Electronics,1224.42,9,Central,Standard,Partner,1.2,0
+2024-04-27,Laptop,Electronics,818.63,7,West,Premium,In-Store,1.5,0
+2024-04-28,Speaker,Accessories,1535.61,9,North,Standard,In-Store,3.3,1
+2024-04-29,Laptop,Electronics,391.04,13,North,Standard,Partner,4.7,0
+2024-04-29,Speaker,Accessories,2250.74,18,South,Standard,Mobile App,3.0,0
+2024-04-30,Tablet,Electronics,2081.86,5,Central,Budget,Partner,4.4,0
+2024-05-01,Monitor,Electronics,827.95,13,East,Premium,In-Store,2.8,0
+2024-05-01,Tablet,Electronics,2384.35,4,East,Standard,Mobile App,3.8,1
+2024-05-02,Laptop,Electronics,2071.74,2,South,Budget,Partner,3.9,1
+2024-05-03,Monitor,Electronics,1682.45,16,South,Standard,Social Media,1.7,0
+2024-05-04,Tablet,Electronics,348.32,9,West,Premium,Social Media,2.4,0
+2024-05-05,Smartphone,Electronics,1221.67,9,South,Standard,Partner,3.5,0
+2024-05-05,Laptop,Electronics,1289.96,6,South,Premium,Mobile App,1.3,0
+2024-05-05,Tablet,Electronics,619.75,11,East,Standard,Partner,2.4,0
+2024-05-06,Smartphone,Electronics,245.92,1,West,Premium,Partner,3.1,0
+2024-05-07,Smartphone,Electronics,1952.97,4,South,Standard,In-Store,5.0,1
+2024-05-08,Camera,Electronics,348.99,13,South,Premium,Social Media,2.9,0
+2024-05-09,Laptop,Electronics,1506.01,13,West,Standard,In-Store,4.3,0
+2024-05-10,Smartphone,Electronics,2344.3,13,Central,Standard,In-Store,2.7,0
+2024-05-10,Camera,Electronics,2196.46,2,West,Budget,Partner,4.2,0
+2024-05-10,Tablet,Electronics,730.49,9,East,Budget,In-Store,3.4,0
+2024-05-11,Headphones,Accessories,2136.05,8,Central,Premium,Social Media,4.5,0
+2024-05-12,Laptop,Electronics,50.81,7,North,Standard,In-Store,2.6,0
+2024-05-12,Monitor,Electronics,93.34,4,West,Premium,Social Media,3.4,0
+2024-05-13,Speaker,Accessories,1526.26,18,East,Budget,In-Store,3.5,1
+2024-05-14,Speaker,Accessories,943.76,3,Central,Premium,Social Media,2.7,0
+2024-05-14,Tablet,Electronics,996.83,6,West,Premium,In-Store,1.6,0
+2024-05-16,Mouse,Accessories,1432.88,12,South,Budget,In-Store,1.4,0
+2024-05-17,Mouse,Accessories,519.87,12,West,Standard,Mobile App,1.1,0
+2024-05-18,Tablet,Electronics,568.8,8,North,Premium,Social Media,4.5,0
+2024-05-18,Smartphone,Electronics,1237.27,1,West,Budget,Social Media,1.9,0
+2024-05-19,Laptop,Electronics,1897.92,4,Central,Standard,Social Media,1.8,0
+2024-05-22,Speaker,Accessories,1567.77,11,Central,Budget,Website,3.9,0
+2024-05-22,Speaker,Accessories,778.52,3,West,Premium,In-Store,2.3,0
+2024-05-23,Smartphone,Electronics,1104.33,13,Central,Standard,Social Media,3.0,0
+2024-05-23,Speaker,Accessories,468.13,17,South,Standard,Website,1.7,0
+2024-05-23,Monitor,Electronics,232.84,10,West,Budget,Mobile App,4.8,1
+2024-05-23,Laptop,Electronics,1967.61,12,South,Budget,Social Media,4.4,0
+2024-05-24,Keyboard,Accessories,700.2,15,South,Budget,Social Media,4.5,0
+2024-05-24,Speaker,Accessories,485.53,10,East,Standard,Website,2.6,0
+2024-05-24,Tablet,Electronics,1744.46,14,West,Standard,In-Store,4.0,0
+2024-05-25,Monitor,Electronics,1564.23,13,Central,Premium,Mobile App,1.6,0
+2024-05-25,Speaker,Accessories,1601.31,5,South,Standard,Social Media,1.0,0
+2024-05-26,Monitor,Electronics,610.79,6,East,Premium,In-Store,1.1,0
+2024-05-27,Camera,Electronics,619.98,2,West,Budget,Mobile App,3.3,0
+2024-05-28,Keyboard,Accessories,590.97,17,West,Budget,Partner,2.8,0
+2024-05-29,Smartwatch,Wearables,475.69,4,North,Standard,Partner,3.1,0
+2024-05-30,Tablet,Electronics,1656.52,14,North,Budget,Mobile App,1.0,1
+2024-05-30,Tablet,Electronics,2127.64,10,South,Budget,Website,2.7,0
+2024-05-31,Laptop,Electronics,1824.58,3,North,Standard,Mobile App,3.9,0
+2024-06-01,Monitor,Electronics,1990.63,3,South,Premium,Mobile App,2.8,0
+2024-06-02,Smartphone,Electronics,1041.76,15,Central,Standard,Website,3.9,0
+2024-06-02,Tablet,Electronics,1652.49,6,South,Premium,Website,1.9,0
+2024-06-03,Monitor,Electronics,917.88,17,North,Standard,In-Store,4.3,0
+2024-06-05,Monitor,Electronics,1337.49,12,Central,Standard,In-Store,3.4,1
+2024-06-06,Headphones,Accessories,1230.01,11,North,Budget,Website,1.8,0
+2024-06-08,Headphones,Accessories,483.37,4,South,Standard,Partner,1.9,0
+2024-06-08,Smartwatch,Wearables,998.34,6,East,Standard,Partner,3.5,0
+2024-06-08,Camera,Electronics,2411.36,1,West,Premium,Mobile App,4.3,0
+2024-06-09,Smartwatch,Wearables,659.02,16,North,Budget,Social Media,2.7,0
+2024-06-09,Speaker,Accessories,377.82,15,South,Premium,Mobile App,2.0,0
+2024-06-09,Smartphone,Electronics,1075.52,17,Central,Premium,Mobile App,4.5,0
+2024-06-10,Speaker,Accessories,1986.33,8,North,Budget,Social Media,3.7,0
+2024-06-11,Mouse,Accessories,1476.26,12,North,Budget,Website,2.8,0
+2024-06-11,Speaker,Accessories,1718.39,10,West,Budget,Partner,3.0,0
+2024-06-13,Laptop,Electronics,514.75,15,South,Standard,Mobile App,1.8,0
+2024-06-14,Speaker,Accessories,1566.42,9,East,Budget,Social Media,3.5,0
+2024-06-15,Smartwatch,Wearables,842.58,2,Central,Budget,In-Store,2.4,0
+2024-06-15,Tablet,Electronics,2094.04,5,South,Budget,Mobile App,5.0,0
+2024-06-16,Tablet,Electronics,1591.78,6,Central,Premium,Partner,2.9,1
+2024-06-16,Headphones,Accessories,537.2,7,North,Premium,Website,2.9,1
+2024-06-16,Smartphone,Electronics,208.31,1,West,Standard,Mobile App,3.3,0
+2024-06-18,Smartphone,Electronics,154.45,7,West,Premium,Mobile App,4.7,0
+2024-06-19,Laptop,Electronics,959.95,12,East,Standard,Social Media,4.2,0
+2024-06-20,Smartwatch,Wearables,701.34,16,West,Premium,In-Store,2.8,0
+2024-06-20,Headphones,Accessories,1632.92,16,North,Budget,In-Store,3.9,0
+2024-06-21,Mouse,Accessories,1273.37,11,East,Premium,Website,3.3,0
+2024-06-21,Smartphone,Electronics,701.75,4,South,Standard,Partner,3.0,1
+2024-06-21,Tablet,Electronics,415.63,13,West,Premium,Website,1.8,0
+2024-06-22,Speaker,Accessories,361.64,7,East,Budget,Mobile App,2.9,0
+2024-06-24,Speaker,Accessories,2168.42,4,North,Standard,Mobile App,2.0,0
+2024-06-25,Headphones,Accessories,646.52,15,Central,Budget,In-Store,4.7,0
+2024-06-25,Smartwatch,Wearables,1646.69,19,Central,Budget,Partner,2.3,0
+2024-06-26,Smartwatch,Wearables,2036.18,9,North,Standard,Social Media,4.8,0
+2024-06-28,Camera,Electronics,1554.5,11,North,Budget,Partner,3.1,0
+2024-06-29,Keyboard,Accessories,2155.93,8,Central,Budget,Mobile App,3.5,0
+2024-06-30,Smartphone,Electronics,1011.36,1,East,Premium,Social Media,3.2,0
+2024-07-01,Smartwatch,Wearables,2392.74,8,Central,Budget,Partner,1.5,0
+2024-07-02,Tablet,Electronics,376.21,13,North,Budget,Partner,2.5,0
+2024-07-02,Headphones,Accessories,300.27,4,West,Budget,Social Media,1.4,0
+2024-07-04,Mouse,Accessories,1663.8,8,South,Budget,Mobile App,3.5,0
+2024-07-05,Camera,Electronics,2359.94,3,West,Standard,Partner,2.8,0
+2024-07-06,Monitor,Electronics,2031.76,9,West,Premium,Social Media,4.1,0
+2024-07-07,Laptop,Electronics,237.22,2,North,Budget,Mobile App,1.9,0
+2024-07-08,Mouse,Accessories,734.45,2,Central,Budget,Social Media,1.7,0
+2024-07-08,Monitor,Electronics,2329.28,13,East,Standard,Social Media,2.6,0
+2024-07-08,Speaker,Accessories,669.99,15,West,Budget,Partner,4.7,1
+2024-07-08,Laptop,Electronics,1963.87,12,Central,Standard,Mobile App,3.8,0
+2024-07-08,Smartphone,Electronics,2071.57,4,East,Premium,Partner,2.7,0
+2024-07-09,Tablet,Electronics,1263.86,8,West,Premium,Website,3.1,0
+2024-07-09,Laptop,Electronics,996.55,9,East,Budget,Website,1.3,0
+2024-07-10,Keyboard,Accessories,1152.8,5,Central,Budget,Mobile App,4.9,0
+2024-07-10,Monitor,Electronics,606.06,18,South,Budget,Social Media,3.7,0
+2024-07-10,Smartphone,Electronics,2229.01,11,Central,Standard,Partner,2.1,0
+2024-07-10,Keyboard,Accessories,1154.02,15,North,Budget,Partner,3.3,0
+2024-07-12,Speaker,Accessories,2212.03,9,East,Budget,Mobile App,1.4,1
+2024-07-12,Keyboard,Accessories,308.95,17,South,Premium,Mobile App,4.9,0
+2024-07-13,Camera,Electronics,2471.27,12,East,Budget,Website,1.7,0
+2024-07-13,Camera,Electronics,1136.02,7,East,Premium,In-Store,3.6,0
+2024-07-13,Headphones,Accessories,167.19,10,West,Budget,Mobile App,2.0,0
+2024-07-14,Mouse,Accessories,143.15,10,North,Premium,In-Store,3.9,0
+2024-07-14,Mouse,Accessories,1878.21,13,East,Budget,Mobile App,4.1,0
+2024-07-16,Smartphone,Electronics,1664.64,19,Central,Premium,Social Media,3.7,0
+2024-07-19,Speaker,Accessories,2015.22,11,Central,Standard,Social Media,3.5,0
+2024-07-19,Smartwatch,Wearables,308.15,13,West,Premium,Website,4.6,0
+2024-07-19,Camera,Electronics,137.15,8,North,Premium,Website,1.3,0
+2024-07-20,Smartphone,Electronics,1296.02,8,North,Premium,In-Store,2.3,0
+2024-07-21,Smartwatch,Wearables,999.61,4,Central,Budget,Mobile App,2.0,0
+2024-07-21,Mouse,Accessories,1181.77,15,South,Budget,Partner,5.0,0
+2024-07-22,Headphones,Accessories,2479.39,11,West,Budget,Website,2.6,1
+2024-07-23,Keyboard,Accessories,2428.34,11,West,Standard,Partner,3.9,0
+2024-07-24,Camera,Electronics,2358.67,1,Central,Standard,Partner,3.7,0
+2024-07-25,Smartphone,Electronics,1970.41,17,Central,Premium,Mobile App,1.8,0
+2024-07-25,Laptop,Electronics,919.36,15,South,Standard,In-Store,2.0,0
+2024-07-26,Smartwatch,Wearables,1059.72,6,South,Premium,Mobile App,2.1,0
+2024-07-30,Keyboard,Accessories,1396.56,15,North,Premium,Website,2.6,0
+2024-07-31,Camera,Electronics,2084.81,9,West,Premium,Partner,1.9,0
+2024-08-01,Mouse,Accessories,218.35,14,West,Standard,Mobile App,1.1,0
+2024-08-02,Speaker,Accessories,1089.53,18,Central,Budget,Mobile App,4.5,0
+2024-08-02,Smartwatch,Wearables,252.41,17,North,Standard,Mobile App,4.9,0
+2024-08-03,Mouse,Accessories,1310.91,18,West,Premium,Website,2.4,0
+2024-08-04,Camera,Electronics,2252.31,5,North,Premium,In-Store,2.4,0
+2024-08-04,Smartwatch,Wearables,1967.09,9,North,Standard,Mobile App,1.0,0
+2024-08-04,Keyboard,Accessories,608.21,11,Central,Premium,Website,3.7,0
+2024-08-04,Camera,Electronics,2441.18,1,North,Premium,Partner,4.3,0
+2024-08-05,Monitor,Electronics,1685.01,18,South,Standard,Social Media,1.6,0
+2024-08-05,Smartphone,Electronics,75.55,6,South,Standard,Website,1.6,0
+2024-08-07,Keyboard,Accessories,675.76,2,East,Standard,Social Media,4.2,0
+2024-08-07,Smartwatch,Wearables,688.75,15,Central,Premium,Mobile App,3.5,0
+2024-08-07,Speaker,Accessories,219.67,14,East,Premium,Mobile App,1.2,0
+2024-08-07,Mouse,Accessories,2401.57,5,South,Budget,Website,3.5,0
+2024-08-10,Laptop,Electronics,1221.73,6,East,Budget,Social Media,2.2,0
+2024-08-10,Mouse,Accessories,2244.75,6,Central,Standard,Mobile App,2.5,0
+2024-08-10,Smartwatch,Wearables,839.43,18,Central,Budget,Partner,4.1,0
+2024-08-11,Mouse,Accessories,356.82,14,North,Premium,In-Store,4.2,1
+2024-08-12,Smartphone,Electronics,1212.12,10,West,Budget,In-Store,2.6,0
+2024-08-12,Camera,Electronics,329.19,14,North,Premium,Mobile App,4.8,0
+2024-08-12,Laptop,Electronics,1240.74,13,Central,Standard,Social Media,2.6,1
+2024-08-12,Tablet,Electronics,2304.73,3,South,Standard,Mobile App,4.1,0
+2024-08-13,Smartwatch,Wearables,1325.88,6,South,Premium,Social Media,2.9,0
+2024-08-14,Headphones,Accessories,1560.42,8,North,Budget,Partner,4.6,0
+2024-08-14,Tablet,Electronics,433.76,12,Central,Standard,Social Media,4.6,0
+2024-08-15,Mouse,Accessories,157.15,13,South,Standard,Mobile App,1.3,0
+2024-08-16,Smartwatch,Wearables,321.48,11,Central,Budget,Partner,4.7,0
+2024-08-16,Monitor,Electronics,1516.4,12,South,Budget,Website,4.3,0
+2024-08-16,Headphones,Accessories,282.78,1,Central,Premium,In-Store,4.2,0
+2024-08-17,Laptop,Electronics,971.18,17,East,Budget,Mobile App,1.8,0
+2024-08-17,Speaker,Accessories,1397.73,16,Central,Budget,Mobile App,4.2,0
+2024-08-18,Monitor,Electronics,1002.2,11,Central,Budget,Mobile App,4.4,0
+2024-08-18,Tablet,Electronics,451.03,13,North,Premium,Partner,2.2,0
+2024-08-18,Camera,Electronics,720.79,18,East,Premium,Website,4.8,0
+2024-08-18,Smartphone,Electronics,2324.38,11,West,Standard,Social Media,1.2,0
+2024-08-20,Speaker,Accessories,1706.16,12,North,Premium,Website,1.6,0
+2024-08-20,Monitor,Electronics,1265.32,6,West,Standard,Partner,3.2,0
+2024-08-20,Camera,Electronics,81.15,9,South,Budget,Mobile App,3.3,0
+2024-08-20,Camera,Electronics,2481.42,16,West,Standard,In-Store,3.6,0
+2024-08-20,Smartwatch,Wearables,1695.06,4,Central,Standard,Mobile App,1.1,0
+2024-08-20,Monitor,Electronics,826.46,3,West,Budget,Social Media,4.8,1
+2024-08-21,Laptop,Electronics,2204.21,16,North,Standard,In-Store,1.2,0
+2024-08-22,Mouse,Accessories,683.16,12,North,Premium,Mobile App,1.6,0
+2024-08-23,Headphones,Accessories,1382.84,11,West,Premium,In-Store,1.1,0
+2024-08-24,Headphones,Accessories,1608.37,5,North,Premium,Website,3.3,0
+2024-08-26,Tablet,Electronics,591.61,18,North,Premium,Partner,4.7,0
+2024-08-26,Tablet,Electronics,2447.07,19,West,Standard,Mobile App,3.7,0
+2024-08-28,Headphones,Accessories,1883.07,6,East,Standard,Social Media,4.3,0
+2024-08-29,Laptop,Electronics,1416.64,18,East,Budget,Website,1.1,1
+2024-08-29,Smartphone,Electronics,492.46,6,South,Standard,Mobile App,3.2,0
+2024-08-30,Keyboard,Accessories,181.95,4,North,Standard,Website,2.8,0
+2024-08-30,Mouse,Accessories,834.15,12,West,Standard,Social Media,3.0,0
+2024-08-31,Smartphone,Electronics,1895.31,19,North,Budget,Mobile App,1.3,1
+2024-09-02,Smartwatch,Wearables,709.86,2,Central,Premium,Social Media,3.7,0
+2024-09-03,Keyboard,Accessories,1371.91,17,North,Standard,In-Store,3.0,0
+2024-09-03,Keyboard,Accessories,1833.47,11,North,Budget,Social Media,4.1,0
+2024-09-05,Monitor,Electronics,314.46,11,East,Budget,In-Store,2.9,0
+2024-09-05,Laptop,Electronics,1728.98,16,West,Budget,Mobile App,1.6,0
+2024-09-06,Laptop,Electronics,275.08,2,North,Premium,In-Store,3.6,0
+2024-09-07,Keyboard,Accessories,2414.57,2,East,Standard,Mobile App,1.7,0
+2024-09-08,Monitor,Electronics,1246.57,8,South,Budget,Mobile App,4.5,0
+2024-09-08,Mouse,Accessories,419.16,13,East,Premium,Partner,3.5,0
+2024-09-09,Keyboard,Accessories,888.84,10,East,Budget,Mobile App,1.6,0
+2024-09-09,Speaker,Accessories,1062.87,8,East,Budget,In-Store,4.8,0
+2024-09-09,Tablet,Electronics,1907.55,4,North,Budget,Partner,3.1,0
+2024-09-09,Tablet,Electronics,1871.39,15,North,Budget,Partner,1.3,0
+2024-09-09,Smartphone,Electronics,1549.25,1,South,Budget,Mobile App,3.5,0
+2024-09-09,Smartwatch,Wearables,309.53,11,Central,Premium,Social Media,2.0,0
+2024-09-10,Tablet,Electronics,421.34,7,Central,Standard,Social Media,4.2,0
+2024-09-10,Camera,Electronics,279.7,17,Central,Standard,Partner,4.3,0
+2024-09-10,Smartphone,Electronics,1464.07,18,South,Standard,Mobile App,4.9,0
+2024-09-12,Tablet,Electronics,2198.99,12,Central,Standard,Social Media,3.0,0
+2024-09-12,Smartwatch,Wearables,1112.81,9,Central,Premium,Mobile App,2.8,0
+2024-09-13,Laptop,Electronics,444.08,5,East,Premium,Mobile App,4.0,0
+2024-09-14,Laptop,Electronics,1417.2,10,North,Premium,Partner,1.5,0
+2024-09-15,Mouse,Accessories,2038.79,4,North,Budget,Partner,3.2,0
+2024-09-15,Keyboard,Accessories,1867.19,5,East,Budget,Website,3.2,0
+2024-09-15,Speaker,Accessories,2209.55,10,East,Budget,Social Media,1.4,0
+2024-09-17,Laptop,Electronics,730.86,11,East,Standard,Social Media,2.7,0
+2024-09-19,Monitor,Electronics,525.19,10,North,Budget,Social Media,4.4,0
+2024-09-20,Tablet,Electronics,2205.55,8,Central,Standard,In-Store,4.4,1
+2024-09-21,Monitor,Electronics,1661.02,2,East,Budget,Mobile App,1.4,0
+2024-09-24,Smartwatch,Wearables,811.78,8,South,Standard,Partner,1.4,0
+2024-09-24,Laptop,Electronics,1868.75,16,East,Budget,Social Media,2.1,0
+2024-09-24,Speaker,Accessories,2047.04,5,West,Budget,Website,4.5,0
+2024-09-25,Smartwatch,Wearables,1556.7,3,East,Premium,Social Media,1.5,1
+2024-09-26,Camera,Electronics,1735.32,12,North,Budget,Mobile App,3.9,0
+2024-09-27,Camera,Electronics,969.39,13,East,Budget,Mobile App,1.4,0
+2024-09-27,Monitor,Electronics,1369.8,13,West,Premium,Partner,3.5,0
+2024-09-28,Keyboard,Accessories,1334.19,10,South,Standard,In-Store,2.4,0
+2024-09-29,Smartphone,Electronics,2127.72,4,Central,Premium,Partner,4.2,0
+2024-09-29,Keyboard,Accessories,2107.91,9,East,Premium,Social Media,1.9,0
+2024-09-30,Mouse,Accessories,2090.07,2,West,Standard,Website,3.6,0
+2024-09-30,Keyboard,Accessories,77.03,19,West,Budget,Partner,1.9,0
+2024-10-03,Mouse,Accessories,1886.39,1,South,Standard,In-Store,3.9,0
+2024-10-03,Mouse,Accessories,1908.76,7,North,Budget,Partner,4.5,0
+2024-10-03,Speaker,Accessories,1712.03,17,East,Budget,Mobile App,1.5,0
+2024-10-03,Laptop,Electronics,1902.85,3,West,Standard,Social Media,4.5,0
+2024-10-03,Speaker,Accessories,2112.83,3,South,Premium,Social Media,3.4,0
+2024-10-05,Mouse,Accessories,1202.28,3,Central,Standard,Social Media,1.5,0
+2024-10-06,Smartwatch,Wearables,1280.02,17,West,Budget,Social Media,2.7,0
+2024-10-06,Camera,Electronics,355.55,7,South,Standard,Social Media,1.6,0
+2024-10-07,Mouse,Accessories,994.17,14,North,Standard,Social Media,3.8,1
+2024-10-08,Speaker,Accessories,1626.24,17,North,Budget,Website,4.0,0
+2024-10-08,Smartwatch,Wearables,1961.98,18,West,Premium,In-Store,1.4,0
+2024-10-09,Speaker,Accessories,582.16,13,West,Standard,Social Media,3.0,0
+2024-10-09,Keyboard,Accessories,387.67,18,East,Budget,In-Store,4.3,0
+2024-10-10,Tablet,Electronics,1674.45,4,South,Budget,Social Media,4.7,0
+2024-10-11,Monitor,Electronics,54.61,1,West,Standard,Partner,3.1,0
+2024-10-11,Smartphone,Electronics,487.01,18,East,Premium,Social Media,4.8,0
+2024-10-14,Speaker,Accessories,121.22,1,East,Standard,Mobile App,3.1,1
+2024-10-15,Smartphone,Electronics,458.87,13,West,Premium,Website,2.6,0
+2024-10-15,Headphones,Accessories,494.23,10,North,Premium,Partner,4.4,0
+2024-10-15,Speaker,Accessories,999.8,11,South,Premium,Partner,3.0,0
+2024-10-20,Tablet,Electronics,1035.7,9,South,Premium,Mobile App,2.9,0
+2024-10-22,Smartphone,Electronics,2191.94,9,North,Standard,Social Media,3.0,0
+2024-10-24,Mouse,Accessories,1299.77,5,West,Budget,Website,4.4,0
+2024-10-26,Speaker,Accessories,1822.34,1,South,Budget,Partner,4.3,0
+2024-10-27,Laptop,Electronics,305.14,17,West,Budget,Website,2.6,1
+2024-10-28,Monitor,Electronics,602.32,2,West,Budget,Partner,2.3,0
+2024-10-28,Tablet,Electronics,1772.21,13,East,Budget,Social Media,3.0,0
+2024-10-29,Smartphone,Electronics,179.37,9,North,Budget,Partner,3.3,0
+2024-10-29,Tablet,Electronics,1242.16,4,West,Standard,Partner,2.0,0
+2024-10-30,Smartwatch,Wearables,1518.45,5,Central,Premium,In-Store,4.2,0
+2024-10-31,Monitor,Electronics,1525.26,11,North,Budget,Social Media,2.9,0
+2024-10-31,Mouse,Accessories,106.19,19,South,Standard,Mobile App,2.3,0
+2024-11-01,Speaker,Accessories,839.16,3,East,Budget,Mobile App,1.4,0
+2024-11-01,Speaker,Accessories,1609.4,12,South,Budget,Social Media,2.0,0
+2024-11-03,Speaker,Accessories,415.05,19,South,Premium,Mobile App,4.8,0
+2024-11-04,Monitor,Electronics,1753.77,19,North,Premium,Social Media,2.2,0
+2024-11-07,Laptop,Electronics,1877.52,13,South,Premium,Mobile App,1.7,0
+2024-11-09,Headphones,Accessories,2455.82,7,West,Budget,In-Store,2.8,0
+2024-11-09,Camera,Electronics,564.11,15,South,Budget,Mobile App,2.2,0
+2024-11-10,Keyboard,Accessories,2071.57,7,East,Budget,Partner,1.1,0
+2024-11-11,Smartphone,Electronics,1324.73,8,East,Premium,Social Media,2.3,0
+2024-11-11,Laptop,Electronics,964.98,5,Central,Standard,Website,3.2,0
+2024-11-13,Mouse,Accessories,349.82,14,East,Budget,Website,3.2,0
+2024-11-14,Smartphone,Electronics,1851.99,4,South,Budget,Social Media,2.4,0
+2024-11-15,Speaker,Accessories,627.85,10,East,Budget,In-Store,2.8,0
+2024-11-15,Tablet,Electronics,959.98,15,North,Standard,Mobile App,4.9,0
+2024-11-16,Mouse,Accessories,203.23,18,East,Budget,In-Store,2.5,0
+2024-11-16,Smartphone,Electronics,2013.35,13,West,Standard,Website,2.0,0
+2024-11-17,Speaker,Accessories,1928.14,8,North,Budget,Social Media,2.0,0
+2024-11-18,Smartphone,Electronics,1847.36,9,Central,Standard,Social Media,2.8,0
+2024-11-18,Tablet,Electronics,783.64,16,West,Budget,In-Store,4.0,0
+2024-11-20,Speaker,Accessories,475.03,19,South,Premium,In-Store,1.8,0
+2024-11-21,Headphones,Accessories,1612.01,16,South,Premium,Mobile App,3.8,0
+2024-11-21,Laptop,Electronics,1265.61,7,South,Premium,Partner,1.1,0
+2024-11-22,Smartwatch,Wearables,486.72,14,West,Premium,Partner,2.7,0
+2024-11-25,Keyboard,Accessories,1730.48,14,West,Budget,Mobile App,4.1,1
+2024-11-25,Monitor,Electronics,2478.26,4,West,Premium,Partner,2.4,0
+2024-11-26,Keyboard,Accessories,1880.69,15,North,Standard,Website,3.3,0
+2024-11-26,Mouse,Accessories,1862.97,3,North,Premium,Partner,1.8,0
+2024-11-30,Keyboard,Accessories,2378.27,5,South,Premium,Mobile App,4.0,0
+2024-11-30,Speaker,Accessories,547.19,1,East,Premium,Partner,1.2,0
+2024-12-01,Headphones,Accessories,1435.6,3,South,Budget,Social Media,4.4,0
+2024-12-02,Smartwatch,Wearables,2450.13,15,Central,Premium,In-Store,1.8,0
+2024-12-03,Laptop,Electronics,454.97,8,North,Standard,Website,4.5,0
+2024-12-03,Laptop,Electronics,1765.62,4,West,Premium,Social Media,2.4,0
+2024-12-03,Tablet,Electronics,1485.23,2,North,Premium,Social Media,3.9,0
+2024-12-04,Monitor,Electronics,1486.87,10,West,Premium,Mobile App,2.3,1
+2024-12-05,Smartphone,Electronics,1759.29,4,Central,Standard,In-Store,4.6,0
+2024-12-05,Headphones,Accessories,2327.56,3,Central,Premium,In-Store,1.5,0
+2024-12-06,Smartphone,Electronics,1967.33,2,North,Standard,Website,1.7,0
+2024-12-07,Smartwatch,Wearables,187.53,17,West,Standard,Mobile App,3.0,0
+2024-12-07,Keyboard,Accessories,2139.18,13,Central,Premium,Website,1.3,0
+2024-12-07,Laptop,Electronics,602.58,5,South,Standard,Partner,1.8,0
+2024-12-09,Smartwatch,Wearables,973.44,9,South,Budget,Social Media,4.8,0
+2024-12-09,Keyboard,Accessories,1181.25,6,West,Premium,Website,4.9,0
+2024-12-11,Laptop,Electronics,1228.22,5,North,Premium,Social Media,2.5,0
+2024-12-11,Keyboard,Accessories,1116.19,10,Central,Standard,Mobile App,4.7,0
+2024-12-11,Monitor,Electronics,2346.52,8,North,Standard,Partner,3.2,0
+2024-12-11,Headphones,Accessories,1779.75,7,South,Premium,Mobile App,2.1,0
+2024-12-11,Mouse,Accessories,1596.37,7,Central,Budget,Partner,3.8,0
+2024-12-13,Smartwatch,Wearables,172.11,6,North,Standard,Partner,3.6,0
+2024-12-13,Smartwatch,Wearables,2264.59,3,East,Standard,Social Media,5.0,0
+2024-12-13,Camera,Electronics,2278.01,19,West,Budget,Mobile App,2.1,0
+2024-12-13,Speaker,Accessories,1961.52,15,West,Budget,Mobile App,3.7,0
+2024-12-14,Monitor,Electronics,67.22,4,East,Premium,Website,1.2,0
+2024-12-14,Monitor,Electronics,190.34,12,South,Budget,Mobile App,1.5,0
+2024-12-15,Smartphone,Electronics,601.8,6,Central,Premium,Website,1.0,0
+2024-12-15,Keyboard,Accessories,371.81,19,West,Budget,In-Store,5.0,0
+2024-12-15,Speaker,Accessories,1027.15,4,East,Standard,In-Store,4.2,0
+2024-12-15,Headphones,Accessories,2310.43,15,East,Premium,In-Store,4.1,0
+2024-12-19,Headphones,Accessories,1206.55,9,South,Premium,Mobile App,3.0,0
+2024-12-22,Monitor,Electronics,82.84,5,South,Premium,Mobile App,2.2,0
+2024-12-23,Headphones,Accessories,742.73,13,North,Budget,Website,1.6,0
+2024-12-24,Camera,Electronics,159.26,18,West,Standard,Partner,2.1,1
+2024-12-25,Smartwatch,Wearables,138.9,5,North,Premium,Website,2.5,0
+2024-12-26,Tablet,Electronics,725.51,16,East,Premium,In-Store,4.0,0
+2024-12-28,Mouse,Accessories,725.25,19,Central,Premium,Website,3.2,0
+2024-12-30,Smartphone,Electronics,1978.46,14,Central,Premium,Partner,1.3,0
+2024-12-30,Keyboard,Accessories,2438.34,16,South,Standard,Mobile App,1.1,0
+2024-12-30,Mouse,Accessories,959.46,15,Central,Budget,Website,1.4,0
+2025-01-01,Keyboard,Accessories,1100.77,4,Central,Standard,In-Store,2.6,0
+2025-01-01,Laptop,Electronics,2119.73,7,Central,Premium,In-Store,4.7,0
+2025-01-03,Mouse,Accessories,706.94,16,East,Standard,Mobile App,3.5,0
+2025-01-03,Tablet,Electronics,433.14,8,Central,Premium,Website,4.2,0
+2025-01-03,Monitor,Electronics,2140.07,17,Central,Budget,Partner,2.9,1
+2025-01-04,Camera,Electronics,163.93,16,Central,Budget,Mobile App,2.4,0
+2025-01-07,Smartwatch,Wearables,1568.26,10,North,Budget,Website,1.4,0
+2025-01-07,Smartwatch,Wearables,1426.88,10,East,Premium,Social Media,4.5,0
+2025-01-07,Camera,Electronics,897.51,2,South,Standard,In-Store,4.1,1
+2025-01-07,Speaker,Accessories,822.21,9,North,Budget,Partner,1.7,0
+2025-01-08,Laptop,Electronics,1941.05,17,West,Premium,Partner,3.0,0
+2025-01-08,Keyboard,Accessories,261.74,11,East,Premium,Partner,2.9,0
+2025-01-08,Tablet,Electronics,630.12,10,East,Standard,In-Store,3.5,0
+2025-01-09,Headphones,Accessories,1844.5,17,West,Budget,Website,4.8,0
+2025-01-10,Mouse,Accessories,1393.39,4,West,Premium,Mobile App,3.3,0
+2025-01-11,Laptop,Electronics,363.57,16,West,Standard,Website,3.2,0
+2025-01-11,Mouse,Accessories,2211.23,15,South,Budget,Mobile App,1.2,1
+2025-01-13,Tablet,Electronics,1013.95,5,Central,Standard,Partner,1.3,0
+2025-01-14,Smartphone,Electronics,2078.28,6,East,Standard,Website,1.7,0
+2025-01-14,Smartphone,Electronics,1979.9,17,Central,Premium,Partner,1.1,0
+2025-01-18,Laptop,Electronics,1579.84,1,Central,Premium,Social Media,4.0,0
+2025-01-19,Monitor,Electronics,1261.48,19,West,Premium,Partner,3.9,0
+2025-01-19,Tablet,Electronics,2449.9,4,South,Standard,Partner,1.5,0
+2025-01-19,Tablet,Electronics,405.16,17,North,Premium,Mobile App,4.3,0
+2025-01-20,Camera,Electronics,1826.63,9,South,Standard,Social Media,1.6,0
+2025-01-20,Monitor,Electronics,518.42,2,Central,Standard,Partner,2.2,0
+2025-01-20,Keyboard,Accessories,878.74,8,South,Premium,Partner,2.0,0
+2025-01-20,Keyboard,Accessories,806.31,15,West,Budget,Social Media,2.5,0
+2025-01-21,Headphones,Accessories,2370.24,7,North,Budget,Social Media,2.0,0
+2025-01-21,Smartwatch,Wearables,2420.02,6,West,Budget,Website,3.0,0
+2025-01-22,Smartphone,Electronics,498.39,1,North,Standard,Mobile App,2.6,0
+2025-01-22,Keyboard,Accessories,103.99,15,Central,Standard,Social Media,4.9,0
+2025-01-23,Monitor,Electronics,1814.02,7,North,Standard,Social Media,1.2,0
+2025-01-24,Tablet,Electronics,1074.08,17,North,Premium,In-Store,1.6,0
+2025-01-24,Keyboard,Accessories,267.66,2,North,Standard,Social Media,1.2,0
+2025-01-26,Tablet,Electronics,1725.2,9,South,Premium,Mobile App,3.5,0
+2025-01-26,Keyboard,Accessories,1385.51,9,South,Premium,Partner,1.2,0
+2025-01-26,Smartphone,Electronics,2452.27,13,Central,Budget,Partner,4.3,0
+2025-01-27,Mouse,Accessories,607.15,6,North,Budget,Partner,3.0,0
+2025-01-27,Keyboard,Accessories,1039.75,6,East,Budget,Partner,3.1,0
+2025-01-27,Monitor,Electronics,1379.24,3,Central,Premium,In-Store,3.2,1
+2025-01-27,Keyboard,Accessories,1989.66,17,North,Premium,Social Media,1.7,0
+2025-01-28,Smartwatch,Wearables,1394.65,17,North,Premium,Partner,1.8,0
+2025-01-28,Smartphone,Electronics,1551.61,12,South,Standard,Website,2.3,0
+2025-01-30,Monitor,Electronics,604.06,16,Central,Premium,Partner,3.4,0
+2025-01-30,Camera,Electronics,2124.95,15,North,Budget,Social Media,1.8,0
+2025-01-31,Monitor,Electronics,1100.14,13,North,Budget,Partner,1.5,0
+2025-01-31,Smartwatch,Wearables,395.35,1,Central,Premium,In-Store,4.9,0
+2025-02-01,Mouse,Accessories,1677.26,17,East,Premium,Mobile App,1.1,0
+2025-02-01,Smartphone,Electronics,579.42,3,Central,Budget,Mobile App,4.2,1
+2025-02-01,Camera,Electronics,289.03,15,Central,Premium,Social Media,4.2,0
+2025-02-03,Smartwatch,Wearables,2161.87,4,East,Budget,Mobile App,2.2,0
+2025-02-04,Smartwatch,Wearables,1177.4,4,Central,Standard,Mobile App,1.5,0
+2025-02-04,Laptop,Electronics,1885.75,18,North,Budget,Website,1.6,0
+2025-02-04,Smartphone,Electronics,761.94,17,Central,Standard,Social Media,3.8,0
+2025-02-04,Monitor,Electronics,1978.08,19,East,Premium,Social Media,3.6,0
+2025-02-05,Tablet,Electronics,324.24,11,West,Premium,Mobile App,4.1,0
+2025-02-05,Mouse,Accessories,922.13,3,Central,Standard,Mobile App,4.7,0
+2025-02-06,Tablet,Electronics,2446.25,8,South,Premium,Mobile App,3.8,0
+2025-02-06,Monitor,Electronics,1995.27,14,North,Standard,In-Store,1.6,0
+2025-02-06,Monitor,Electronics,1268.28,1,North,Premium,Partner,2.0,0
+2025-02-07,Smartphone,Electronics,882.45,14,South,Budget,In-Store,4.4,0
+2025-02-08,Monitor,Electronics,2186.73,2,South,Premium,Social Media,1.8,1
+2025-02-08,Laptop,Electronics,1384.88,4,Central,Budget,Website,1.3,1
+2025-02-10,Camera,Electronics,1908.14,19,South,Budget,Partner,3.8,0
+2025-02-10,Monitor,Electronics,1897.56,6,West,Standard,Website,2.6,0
+2025-02-11,Tablet,Electronics,93.97,1,East,Premium,Social Media,4.7,0
+2025-02-11,Monitor,Electronics,359.32,17,South,Standard,Social Media,3.6,0
+2025-02-12,Laptop,Electronics,1666.09,8,South,Premium,Website,1.4,1
+2025-02-13,Keyboard,Accessories,445.97,19,West,Budget,Website,4.8,0
+2025-02-14,Keyboard,Accessories,675.96,1,North,Budget,Website,2.0,0
+2025-02-16,Smartwatch,Wearables,2369.26,5,North,Premium,Social Media,2.3,0
+2025-02-17,Mouse,Accessories,1422.45,16,Central,Premium,Mobile App,2.6,0
+2025-02-18,Headphones,Accessories,1889.29,6,West,Standard,Website,1.2,0
+2025-02-18,Camera,Electronics,1417.05,8,East,Premium,Partner,3.0,0
+2025-02-18,Speaker,Accessories,1403.66,13,East,Premium,Social Media,1.5,0
+2025-02-19,Smartwatch,Wearables,280.67,16,West,Premium,In-Store,2.6,0
+2025-02-20,Mouse,Accessories,891.97,3,East,Standard,In-Store,2.4,0
+2025-02-21,Keyboard,Accessories,741.96,19,North,Premium,Partner,4.1,0
+2025-02-22,Tablet,Electronics,1007.28,12,East,Budget,Mobile App,4.2,0
+2025-02-23,Speaker,Accessories,2005.94,16,East,Standard,Website,1.6,0
+2025-02-23,Mouse,Accessories,961.24,11,West,Standard,Social Media,2.5,0
+2025-02-25,Mouse,Accessories,1156.66,10,West,Budget,Website,2.5,1
+2025-02-25,Smartwatch,Wearables,1023.58,4,East,Budget,Social Media,1.6,0
+2025-02-25,Speaker,Accessories,278.85,12,South,Budget,In-Store,4.2,1
+2025-02-28,Smartphone,Electronics,1130.63,2,West,Premium,Website,3.8,0
+2025-03-02,Headphones,Accessories,529.24,19,Central,Budget,Partner,1.8,0
+2025-03-03,Smartphone,Electronics,507.47,5,Central,Premium,Mobile App,2.5,0
+2025-03-07,Speaker,Accessories,280.39,8,North,Standard,Partner,1.4,0
+2025-03-10,Smartphone,Electronics,923.84,7,East,Standard,Mobile App,3.5,1
+2025-03-10,Laptop,Electronics,1905.83,14,South,Budget,Website,1.5,0
+2025-03-10,Keyboard,Accessories,727.28,3,North,Premium,Website,4.9,0
+2025-03-10,Laptop,Electronics,815.26,18,East,Budget,Mobile App,4.1,1
+2025-03-11,Monitor,Electronics,1624.55,16,West,Budget,In-Store,2.6,0
+2025-03-12,Smartphone,Electronics,529.81,19,Central,Premium,Social Media,3.3,0
+2025-03-12,Monitor,Electronics,2247.55,19,South,Budget,Partner,4.6,0
+2025-03-13,Tablet,Electronics,1324.47,18,Central,Standard,Partner,3.2,0
+2025-03-13,Camera,Electronics,1146.63,16,West,Budget,Partner,1.7,0
+2025-03-14,Tablet,Electronics,1416.66,8,East,Premium,Website,2.5,0
+2025-03-16,Speaker,Accessories,456.78,1,West,Premium,Partner,4.4,0
+2025-03-16,Mouse,Accessories,1553.01,17,West,Standard,Social Media,3.6,0
+2025-03-17,Keyboard,Accessories,939.6,12,Central,Premium,Social Media,3.6,0
+2025-03-17,Smartphone,Electronics,2248.11,11,South,Premium,Mobile App,4.5,0
+2025-03-18,Smartwatch,Wearables,463.69,5,West,Standard,Website,4.6,0
+2025-03-19,Camera,Electronics,1292.28,12,Central,Budget,Social Media,4.7,0
+2025-03-20,Headphones,Accessories,1515.38,17,South,Standard,In-Store,1.4,0
+2025-03-20,Headphones,Accessories,131.79,6,East,Budget,Website,3.2,0
+2025-03-21,Headphones,Accessories,941.05,1,East,Standard,Website,4.0,0
+2025-03-21,Smartphone,Electronics,1844.96,5,North,Budget,Social Media,4.0,0
+2025-03-22,Headphones,Accessories,2059.92,14,Central,Standard,In-Store,3.4,0
+2025-03-22,Laptop,Electronics,817.25,5,South,Budget,Mobile App,1.7,0
+2025-03-24,Camera,Electronics,2006.55,1,West,Standard,Social Media,4.2,0
+2025-03-25,Laptop,Electronics,2421.0,18,East,Budget,In-Store,3.9,0
+2025-03-25,Mouse,Accessories,2149.34,16,South,Standard,Website,1.3,0
+2025-03-26,Camera,Electronics,338.23,9,Central,Premium,In-Store,2.9,0
+2025-03-28,Laptop,Electronics,1862.34,19,North,Budget,Website,1.7,0
+2025-03-28,Camera,Electronics,833.18,5,East,Standard,Social Media,2.3,0
+2025-03-28,Mouse,Accessories,2471.62,2,South,Budget,Social Media,1.1,0
+2025-03-30,Monitor,Electronics,1239.13,15,South,Budget,Partner,2.6,0
+2025-03-30,Smartphone,Electronics,349.96,7,South,Standard,Partner,3.2,0
+2025-03-31,Smartphone,Electronics,1826.7,4,Central,Budget,Partner,3.5,0
+2025-03-31,Headphones,Accessories,841.38,1,Central,Standard,Social Media,3.7,0
+2025-03-31,Tablet,Electronics,2492.84,13,Central,Premium,Mobile App,4.3,0
+2025-04-01,Headphones,Accessories,2450.47,7,West,Budget,Social Media,1.9,0
+2025-04-01,Speaker,Accessories,1657.53,15,South,Premium,In-Store,1.5,0
+2025-04-02,Laptop,Electronics,368.07,14,East,Budget,Social Media,4.4,0
+2025-04-03,Camera,Electronics,1732.81,19,Central,Budget,Social Media,1.6,0
+2025-04-04,Tablet,Electronics,277.92,18,Central,Budget,Website,4.9,0
+2025-04-04,Mouse,Accessories,121.94,10,South,Standard,Website,4.4,0
+2025-04-05,Speaker,Accessories,2066.25,9,Central,Premium,Website,3.0,0
+2025-04-05,Mouse,Accessories,563.89,8,West,Budget,Social Media,4.9,0
+2025-04-05,Smartphone,Electronics,978.62,10,West,Standard,Mobile App,1.4,0
+2025-04-06,Smartphone,Electronics,2434.97,17,Central,Budget,In-Store,2.2,0
+2025-04-06,Headphones,Accessories,875.26,2,South,Standard,In-Store,3.6,0
+2025-04-08,Laptop,Electronics,776.4,6,South,Budget,Mobile App,2.4,0
+2025-04-10,Tablet,Electronics,2299.61,5,South,Premium,Mobile App,4.7,1
+2025-04-11,Keyboard,Accessories,321.33,9,North,Premium,In-Store,1.3,0
+2025-04-12,Speaker,Accessories,1910.98,5,Central,Budget,Partner,3.2,0
+2025-04-13,Speaker,Accessories,2470.76,18,South,Standard,Website,3.4,0
+2025-04-14,Headphones,Accessories,2258.18,9,West,Budget,Website,3.6,0
+2025-04-14,Smartphone,Electronics,1646.59,17,East,Standard,In-Store,2.0,0
+2025-04-15,Headphones,Accessories,819.45,17,East,Budget,Mobile App,2.5,0
+2025-04-15,Camera,Electronics,673.09,12,South,Standard,Partner,4.4,0
+2025-04-16,Tablet,Electronics,2057.18,7,East,Premium,In-Store,1.8,0
+2025-04-16,Laptop,Electronics,2205.56,3,East,Budget,Website,4.3,0
+2025-04-17,Monitor,Electronics,1337.32,10,North,Premium,Social Media,3.3,0
+2025-04-17,Smartwatch,Wearables,648.63,2,West,Premium,Mobile App,4.0,0
+2025-04-17,Smartwatch,Wearables,326.71,3,West,Budget,Social Media,3.9,0
+2025-04-18,Headphones,Accessories,263.59,16,North,Budget,In-Store,1.8,0
+2025-04-18,Camera,Electronics,1811.74,2,North,Standard,Website,3.3,0
+2025-04-18,Tablet,Electronics,1079.29,10,East,Standard,Partner,4.5,0
+2025-04-18,Keyboard,Accessories,2268.13,6,Central,Premium,Social Media,2.7,0
+2025-04-19,Smartwatch,Wearables,1862.19,11,East,Standard,Partner,4.9,1
+2025-04-19,Tablet,Electronics,518.59,7,North,Standard,Website,2.8,0
+2025-04-20,Laptop,Electronics,1553.75,15,West,Budget,Social Media,1.6,0
+2025-04-20,Mouse,Accessories,1116.99,6,East,Standard,Partner,2.6,0
+2025-04-20,Camera,Electronics,1464.26,9,Central,Premium,Partner,4.8,0
+2025-04-21,Smartphone,Electronics,1858.27,12,East,Standard,Social Media,2.3,0
+2025-04-21,Tablet,Electronics,2025.18,19,South,Premium,Website,4.5,0
+2025-04-21,Laptop,Electronics,2117.16,3,East,Budget,Partner,4.5,1
+2025-04-25,Keyboard,Accessories,672.24,15,North,Premium,In-Store,2.4,0
+2025-04-25,Monitor,Electronics,126.23,2,West,Standard,Social Media,1.3,0
+2025-04-28,Smartphone,Electronics,1861.27,2,West,Budget,Mobile App,3.9,0
+2025-04-29,Monitor,Electronics,310.54,3,North,Standard,Mobile App,2.2,0
+2025-04-29,Keyboard,Accessories,821.55,6,South,Budget,Website,4.1,0
+2025-04-29,Laptop,Electronics,59.35,15,North,Budget,In-Store,2.8,0
+2025-05-02,Smartwatch,Wearables,1720.09,10,East,Standard,Partner,2.9,0
+2025-05-02,Monitor,Electronics,459.47,9,North,Standard,Mobile App,4.1,0
+2025-05-03,Smartphone,Electronics,1655.44,1,North,Budget,Website,2.5,0
+2025-05-04,Headphones,Accessories,2479.77,16,South,Budget,In-Store,2.8,0
+2025-05-04,Speaker,Accessories,228.04,6,East,Standard,In-Store,2.5,0
+2025-05-06,Tablet,Electronics,238.84,9,Central,Premium,Website,2.5,0
+2025-05-06,Smartwatch,Wearables,883.93,4,Central,Standard,Website,3.1,0
+2025-05-07,Monitor,Electronics,2172.65,2,West,Budget,Partner,4.2,0
+2025-05-07,Mouse,Accessories,578.05,4,North,Standard,Website,2.4,1
+2025-05-10,Tablet,Electronics,932.93,1,West,Premium,Partner,3.1,0
+2025-05-11,Headphones,Accessories,217.84,19,South,Standard,Partner,3.7,0
+2025-05-11,Keyboard,Accessories,1919.73,10,Central,Budget,Social Media,2.1,0
+2025-05-11,Speaker,Accessories,1050.35,15,North,Standard,In-Store,2.1,0
+2025-05-13,Laptop,Electronics,1910.16,19,South,Budget,In-Store,4.7,1
+2025-05-13,Headphones,Accessories,2263.84,16,South,Budget,In-Store,3.9,0
+2025-05-14,Headphones,Accessories,620.27,4,North,Standard,Social Media,3.3,0
+2025-05-15,Keyboard,Accessories,2028.12,2,South,Budget,Partner,3.6,0
+2025-05-16,Camera,Electronics,194.78,13,North,Budget,Partner,1.1,1
+2025-05-17,Keyboard,Accessories,2252.18,1,North,Premium,Website,3.5,0
+2025-05-17,Camera,Electronics,1644.38,17,East,Premium,Social Media,3.0,0
+2025-05-17,Camera,Electronics,2191.86,13,West,Premium,Website,3.2,0
+2025-05-18,Smartwatch,Wearables,50.46,4,South,Premium,Social Media,2.4,0
+2025-05-18,Smartwatch,Wearables,464.25,7,South,Budget,Website,1.3,0
+2025-05-19,Smartphone,Electronics,1004.91,17,East,Standard,Mobile App,1.8,0
+2025-05-19,Monitor,Electronics,979.78,9,East,Budget,In-Store,4.8,0
+2025-05-20,Monitor,Electronics,605.49,4,East,Budget,In-Store,2.6,0
+2025-05-20,Laptop,Electronics,984.95,19,Central,Budget,Partner,2.9,0
+2025-05-20,Monitor,Electronics,365.68,1,Central,Standard,Mobile App,1.2,0
+2025-05-20,Smartwatch,Wearables,1061.26,10,Central,Premium,In-Store,1.2,0
+2025-05-22,Smartphone,Electronics,2015.77,4,North,Budget,Partner,3.9,0
+2025-05-22,Smartphone,Electronics,1223.72,9,South,Budget,Mobile App,3.2,1
+2025-05-22,Camera,Electronics,94.1,13,West,Premium,In-Store,3.0,0
+2025-05-23,Keyboard,Accessories,1082.54,14,North,Budget,Website,2.0,0
+2025-05-24,Laptop,Electronics,116.58,10,South,Standard,Social Media,4.0,0
+2025-05-24,Camera,Electronics,2417.3,6,South,Budget,Mobile App,1.7,0
+2025-05-25,Keyboard,Accessories,362.26,16,East,Budget,Partner,1.8,0
+2025-05-25,Monitor,Electronics,1783.84,6,East,Premium,Mobile App,2.8,0
+2025-05-25,Camera,Electronics,2433.3,17,North,Budget,Partner,2.1,0
+2025-05-25,Tablet,Electronics,2073.8,10,East,Budget,Mobile App,2.0,1
+2025-05-25,Monitor,Electronics,1763.32,18,South,Standard,Partner,3.6,0
+2025-05-25,Keyboard,Accessories,2106.68,18,East,Premium,In-Store,3.6,0
+2025-05-26,Laptop,Electronics,2455.41,3,Central,Premium,Website,4.3,0
+2025-05-26,Keyboard,Accessories,1572.29,15,East,Standard,In-Store,2.7,0
+2025-05-27,Camera,Electronics,1420.0,15,South,Budget,Website,1.3,0
+2025-05-27,Camera,Electronics,1589.18,4,North,Premium,In-Store,2.1,0
+2025-05-27,Headphones,Accessories,1355.06,9,West,Premium,In-Store,4.9,0
+2025-05-30,Laptop,Electronics,1605.97,19,East,Budget,Mobile App,3.4,0
+2025-05-30,Mouse,Accessories,1152.11,17,South,Budget,Social Media,3.8,1
+2025-05-30,Monitor,Electronics,585.19,11,West,Premium,Partner,1.0,0
+2025-05-31,Smartphone,Electronics,344.61,9,West,Budget,Partner,3.1,0
+2025-06-01,Laptop,Electronics,217.44,10,Central,Premium,Partner,1.2,0
+2025-06-01,Smartphone,Electronics,695.12,18,West,Budget,Website,3.3,0
+2025-06-01,Laptop,Electronics,163.0,13,South,Budget,Partner,4.7,0
+2025-06-02,Laptop,Electronics,1439.57,8,South,Standard,Partner,4.9,0
+2025-06-03,Keyboard,Accessories,745.38,7,East,Budget,Mobile App,3.2,1
+2025-06-04,Laptop,Electronics,2070.11,17,East,Standard,In-Store,2.8,1
+2025-06-05,Headphones,Accessories,231.89,15,East,Budget,Partner,4.8,0
+2025-06-07,Mouse,Accessories,604.56,15,West,Premium,Social Media,3.7,0
+2025-06-08,Camera,Electronics,1839.1,1,West,Premium,Partner,1.3,0
+2025-06-08,Speaker,Accessories,1517.08,14,Central,Budget,Website,2.9,0
+2025-06-08,Smartphone,Electronics,208.0,5,East,Budget,Website,2.0,0
+2025-06-08,Camera,Electronics,2199.24,11,North,Premium,Website,2.9,0
+2025-06-09,Speaker,Accessories,2199.29,16,Central,Budget,Partner,2.8,0
+2025-06-09,Mouse,Accessories,859.5,2,North,Standard,Mobile App,3.3,0
+2025-06-09,Mouse,Accessories,883.99,8,West,Standard,Social Media,2.4,0
+2025-06-14,Smartphone,Electronics,2473.12,11,Central,Standard,Partner,1.7,0
+2025-06-15,Smartphone,Electronics,1584.13,18,Central,Standard,Mobile App,3.0,0
+2025-06-15,Mouse,Accessories,1351.73,3,South,Standard,Mobile App,4.3,0
+2025-06-17,Speaker,Accessories,2103.47,1,West,Budget,Partner,3.7,0
+2025-06-20,Laptop,Electronics,748.96,11,West,Budget,Partner,2.4,0
+2025-06-21,Monitor,Electronics,1101.5,16,Central,Standard,Mobile App,4.7,0
+2025-06-23,Tablet,Electronics,706.05,18,West,Budget,Mobile App,4.6,0
+2025-06-24,Camera,Electronics,1983.44,16,Central,Budget,Mobile App,1.8,0
+2025-06-25,Keyboard,Accessories,1454.71,10,South,Standard,Partner,1.2,0
+2025-06-26,Camera,Electronics,1664.12,18,Central,Budget,Mobile App,4.0,0
+2025-06-28,Keyboard,Accessories,668.15,6,West,Budget,Website,4.3,0
+2025-06-29,Speaker,Accessories,589.55,19,West,Budget,Partner,4.9,0
+2025-06-29,Keyboard,Accessories,1246.52,4,Central,Standard,Website,4.6,0
+2025-06-30,Smartphone,Electronics,1857.04,13,Central,Budget,In-Store,3.4,0
+2025-06-30,Monitor,Electronics,1336.84,14,Central,Premium,Partner,3.1,0
+2025-06-30,Monitor,Electronics,129.98,3,East,Premium,In-Store,1.1,1
+2025-07-01,Smartphone,Electronics,2177.95,10,West,Standard,Mobile App,2.0,0
+2025-07-01,Headphones,Accessories,208.48,6,West,Premium,Mobile App,2.8,0
+2025-07-03,Speaker,Accessories,2391.77,1,East,Standard,Social Media,3.5,0
+2025-07-04,Headphones,Accessories,111.6,14,Central,Premium,Mobile App,3.2,0
+2025-07-04,Headphones,Accessories,1751.4,8,South,Premium,In-Store,4.0,1
+2025-07-04,Camera,Electronics,251.41,19,Central,Premium,Mobile App,2.1,0
+2025-07-07,Mouse,Accessories,2281.16,14,Central,Standard,Partner,3.3,0
+2025-07-07,Camera,Electronics,1187.86,10,East,Standard,Mobile App,1.4,0
+2025-07-09,Mouse,Accessories,386.93,17,West,Budget,Social Media,2.7,0
+2025-07-09,Tablet,Electronics,885.0,9,Central,Standard,Mobile App,4.0,0
+2025-07-09,Keyboard,Accessories,453.82,6,West,Premium,In-Store,3.8,0
+2025-07-09,Mouse,Accessories,467.93,11,North,Premium,In-Store,5.0,0
+2025-07-10,Smartphone,Electronics,2372.87,7,West,Standard,Mobile App,2.1,0
+2025-07-11,Camera,Electronics,1140.85,17,South,Standard,In-Store,3.0,0
+2025-07-12,Speaker,Accessories,1982.57,1,South,Standard,In-Store,2.3,0
+2025-07-13,Keyboard,Accessories,1617.03,5,Central,Budget,Social Media,2.8,0
+2025-07-14,Tablet,Electronics,1707.24,9,West,Premium,Partner,4.4,0
+2025-07-15,Mouse,Accessories,372.65,18,Central,Budget,Social Media,3.7,0
+2025-07-16,Tablet,Electronics,623.75,2,East,Budget,Website,4.5,0
+2025-07-16,Speaker,Accessories,1977.54,11,South,Premium,Social Media,1.8,0
+2025-07-16,Headphones,Accessories,2428.38,6,Central,Premium,Mobile App,4.5,0
+2025-07-17,Monitor,Electronics,693.56,8,East,Standard,Partner,1.2,0
+2025-07-17,Speaker,Accessories,715.34,4,Central,Standard,Mobile App,4.6,0
+2025-07-17,Smartwatch,Wearables,1208.6,18,West,Budget,Website,2.3,0
+2025-07-18,Speaker,Accessories,2460.41,11,West,Standard,Partner,2.3,1
+2025-07-18,Tablet,Electronics,708.95,5,West,Standard,In-Store,3.0,0
+2025-07-18,Smartphone,Electronics,1047.08,15,West,Premium,Social Media,4.8,0
+2025-07-19,Camera,Electronics,2234.13,18,North,Premium,Mobile App,1.2,0
+2025-07-19,Smartphone,Electronics,57.16,2,East,Standard,Website,2.4,0
+2025-07-19,Tablet,Electronics,147.43,11,East,Premium,In-Store,4.4,0
+2025-07-19,Camera,Electronics,1529.98,13,West,Standard,Social Media,2.6,0
+2025-07-20,Smartwatch,Wearables,2273.08,4,North,Premium,In-Store,1.8,0
+2025-07-22,Monitor,Electronics,635.2,7,West,Premium,Social Media,2.7,0
+2025-07-23,Keyboard,Accessories,1200.62,11,North,Premium,Partner,2.5,0
+2025-07-23,Tablet,Electronics,1153.64,4,West,Premium,In-Store,4.7,0
+2025-07-25,Mouse,Accessories,1208.78,15,South,Standard,In-Store,4.0,0
+2025-07-25,Tablet,Electronics,1575.17,1,South,Budget,In-Store,3.0,0
+2025-07-26,Tablet,Electronics,1200.87,3,Central,Premium,Partner,5.0,0
+2025-07-27,Camera,Electronics,1146.3,14,West,Standard,Website,2.9,0
+2025-07-27,Laptop,Electronics,1212.01,6,East,Standard,Social Media,1.2,0
+2025-07-27,Speaker,Accessories,1497.63,18,Central,Premium,In-Store,2.0,0
+2025-07-28,Laptop,Electronics,1365.67,1,South,Budget,Partner,2.7,0
+2025-07-28,Smartwatch,Wearables,2142.63,6,West,Premium,Website,1.6,0
+2025-07-30,Mouse,Accessories,171.27,6,Central,Standard,Social Media,4.8,0
+2025-07-31,Monitor,Electronics,2091.63,16,West,Budget,Partner,4.1,0
+2025-07-31,Headphones,Accessories,2117.62,5,South,Standard,Social Media,2.1,0
+2025-08-02,Smartwatch,Wearables,748.02,17,Central,Premium,In-Store,3.4,0
+2025-08-02,Headphones,Accessories,1183.99,10,South,Budget,Website,3.9,0
+2025-08-03,Headphones,Accessories,1124.42,18,North,Standard,Partner,4.8,0
+2025-08-04,Monitor,Electronics,585.35,7,South,Standard,Website,4.5,0
+2025-08-09,Smartphone,Electronics,1022.15,3,West,Standard,In-Store,3.1,0
+2025-08-10,Laptop,Electronics,158.75,13,East,Premium,Website,4.1,0
+2025-08-15,Tablet,Electronics,730.66,15,South,Budget,Website,3.2,0
+2025-08-16,Keyboard,Accessories,2050.87,19,East,Premium,Mobile App,3.2,0
+2025-08-17,Headphones,Accessories,747.18,3,North,Premium,Website,1.5,0
+2025-08-18,Mouse,Accessories,2054.61,4,Central,Premium,Social Media,1.5,0
+2025-08-18,Smartwatch,Wearables,1352.42,5,Central,Budget,Partner,3.1,0
+2025-08-23,Smartphone,Electronics,2205.66,1,East,Premium,Mobile App,2.1,0
+2025-08-23,Headphones,Accessories,1458.21,4,Central,Premium,Partner,1.1,0
+2025-08-24,Smartphone,Electronics,122.69,12,South,Premium,Partner,3.9,0
+2025-08-26,Smartphone,Electronics,1704.78,10,East,Premium,In-Store,1.1,0
+2025-08-26,Headphones,Accessories,159.89,13,West,Standard,In-Store,3.4,0
+2025-08-27,Camera,Electronics,1153.96,14,South,Premium,Mobile App,3.2,0
+2025-08-28,Speaker,Accessories,2327.1,5,South,Standard,In-Store,4.9,0
+2025-08-29,Mouse,Accessories,454.75,4,South,Premium,In-Store,2.9,0
+2025-08-29,Tablet,Electronics,1005.19,14,West,Budget,In-Store,1.3,0
+2025-08-29,Tablet,Electronics,1838.16,10,North,Standard,Partner,3.2,0
+2025-08-30,Mouse,Accessories,2211.53,17,Central,Standard,Mobile App,4.4,0
+2025-08-30,Camera,Electronics,1693.81,10,East,Standard,Partner,5.0,0
+2025-08-31,Tablet,Electronics,682.52,7,North,Standard,Social Media,2.7,0
+2025-08-31,Smartphone,Electronics,1702.79,16,East,Budget,Partner,2.3,0
+2025-09-01,Monitor,Electronics,776.98,1,Central,Premium,Social Media,4.6,0
+2025-09-01,Smartwatch,Wearables,1810.15,17,West,Standard,Website,1.8,1
+2025-09-02,Laptop,Electronics,2387.38,9,South,Budget,Website,3.5,0
+2025-09-03,Tablet,Electronics,1817.41,6,South,Standard,Social Media,2.6,0
+2025-09-03,Mouse,Accessories,2164.06,19,West,Premium,Social Media,1.2,0
+2025-09-04,Monitor,Electronics,55.15,13,North,Standard,Partner,2.4,0
+2025-09-04,Headphones,Accessories,1808.05,3,North,Budget,Social Media,2.1,0
+2025-09-04,Speaker,Accessories,2082.49,7,East,Premium,Mobile App,3.7,0
+2025-09-04,Mouse,Accessories,149.37,9,West,Budget,Website,4.8,0
+2025-09-04,Smartphone,Electronics,2185.41,5,North,Premium,Website,2.1,0
+2025-09-04,Speaker,Accessories,678.9,10,West,Premium,Social Media,4.2,0
+2025-09-06,Smartwatch,Wearables,1679.97,17,Central,Premium,In-Store,1.2,0
+2025-09-08,Smartwatch,Wearables,2010.87,12,South,Standard,In-Store,3.2,0
+2025-09-11,Camera,Electronics,1673.53,16,South,Budget,Social Media,1.3,0
+2025-09-11,Keyboard,Accessories,276.1,3,South,Budget,Mobile App,4.7,0
+2025-09-14,Camera,Electronics,1510.99,9,West,Budget,In-Store,4.1,0
+2025-09-14,Monitor,Electronics,1396.48,15,West,Premium,Social Media,3.6,0
+2025-09-15,Speaker,Accessories,2255.79,5,East,Standard,Mobile App,4.3,0
+2025-09-15,Keyboard,Accessories,1040.39,13,South,Premium,Mobile App,3.6,0
+2025-09-15,Headphones,Accessories,836.65,14,East,Budget,Partner,4.9,0
+2025-09-16,Smartphone,Electronics,1887.13,15,South,Standard,Mobile App,3.9,0
+2025-09-16,Speaker,Accessories,1061.05,16,East,Standard,In-Store,4.7,0
+2025-09-16,Camera,Electronics,1632.94,13,East,Standard,In-Store,3.1,0
+2025-09-17,Laptop,Electronics,1633.8,17,Central,Budget,Social Media,1.5,0
+2025-09-17,Keyboard,Accessories,2225.7,8,East,Standard,Social Media,3.1,0
+2025-09-19,Keyboard,Accessories,1516.8,2,West,Standard,Mobile App,1.5,0
+2025-09-19,Smartphone,Electronics,1280.28,5,East,Premium,Website,3.4,0
+2025-09-22,Tablet,Electronics,390.23,6,South,Premium,Partner,2.9,0
+2025-09-24,Smartwatch,Wearables,333.56,12,East,Standard,Website,3.5,0
+2025-09-25,Smartwatch,Wearables,428.09,18,North,Standard,Mobile App,1.0,0
+2025-09-25,Laptop,Electronics,471.03,1,South,Premium,Mobile App,1.8,0
+2025-09-25,Monitor,Electronics,1612.8,17,North,Premium,Website,3.0,0
+2025-09-25,Monitor,Electronics,1865.4,11,South,Premium,Partner,4.8,0
+2025-09-27,Headphones,Accessories,1348.48,10,West,Budget,Website,2.5,1
+2025-09-29,Speaker,Accessories,2081.09,19,West,Budget,Social Media,2.7,0
+2025-09-29,Mouse,Accessories,2478.59,14,West,Premium,In-Store,3.9,0
+2025-09-29,Tablet,Electronics,2059.03,10,North,Standard,Social Media,3.4,0
+2025-09-30,Camera,Electronics,1752.46,15,Central,Premium,In-Store,2.2,0
+2025-09-30,Mouse,Accessories,1354.61,19,South,Budget,Mobile App,2.6,0
+2025-10-01,Mouse,Accessories,1149.69,4,West,Standard,Partner,1.9,0
+2025-10-01,Keyboard,Accessories,256.76,2,South,Budget,Website,4.9,0
+2025-10-01,Laptop,Electronics,1028.45,9,North,Standard,Partner,1.5,0
+2025-10-02,Smartwatch,Wearables,2279.83,10,Central,Budget,Website,2.5,0
+2025-10-02,Headphones,Accessories,2029.66,11,North,Standard,Social Media,1.1,0
+2025-10-03,Monitor,Electronics,579.33,14,South,Standard,Social Media,1.9,0
+2025-10-03,Laptop,Electronics,1193.19,7,Central,Standard,Website,4.1,0
+2025-10-04,Keyboard,Accessories,2050.97,15,Central,Standard,Partner,1.8,0
+2025-10-06,Camera,Electronics,215.09,19,North,Budget,Website,1.3,0
+2025-10-06,Headphones,Accessories,999.11,15,West,Budget,Mobile App,2.9,0
+2025-10-06,Keyboard,Accessories,2137.01,8,South,Standard,Social Media,1.0,0
+2025-10-07,Smartwatch,Wearables,1039.55,11,East,Standard,Mobile App,1.3,0
+2025-10-07,Smartwatch,Wearables,240.16,9,East,Budget,Social Media,4.2,1
+2025-10-08,Smartwatch,Wearables,1379.21,15,North,Standard,Social Media,4.1,0
+2025-10-09,Laptop,Electronics,2161.27,1,South,Standard,In-Store,4.7,0
+2025-10-09,Laptop,Electronics,1496.2,1,South,Standard,Mobile App,4.4,0
+2025-10-09,Monitor,Electronics,604.38,19,North,Premium,Mobile App,3.7,1
+2025-10-10,Monitor,Electronics,991.39,3,South,Standard,In-Store,1.2,0
+2025-10-11,Camera,Electronics,1152.8,10,West,Premium,Partner,4.1,1
+2025-10-13,Headphones,Accessories,1469.2,8,North,Standard,Mobile App,4.4,0
+2025-10-14,Smartphone,Electronics,1910.41,15,West,Budget,Website,4.2,0
+2025-10-14,Smartphone,Electronics,292.24,10,South,Premium,In-Store,3.0,0
+2025-10-15,Keyboard,Accessories,2229.65,1,North,Premium,Mobile App,1.9,0
+2025-10-15,Smartwatch,Wearables,80.16,18,South,Standard,Partner,4.4,0
+2025-10-16,Headphones,Accessories,956.63,2,North,Standard,Mobile App,3.9,0
+2025-10-17,Mouse,Accessories,117.18,19,South,Premium,Social Media,4.9,0
+2025-10-17,Laptop,Electronics,1012.79,13,West,Budget,Website,1.6,0
+2025-10-17,Speaker,Accessories,1338.24,1,West,Budget,In-Store,1.9,0
+2025-10-18,Tablet,Electronics,1303.62,2,South,Standard,Social Media,1.8,0
+2025-10-18,Camera,Electronics,455.79,16,North,Budget,Partner,4.2,0
+2025-10-19,Smartwatch,Wearables,1632.06,15,East,Budget,Social Media,1.7,0
+2025-10-20,Smartwatch,Wearables,159.71,13,West,Standard,Social Media,1.3,0
+2025-10-20,Smartwatch,Wearables,1916.67,16,West,Budget,Partner,5.0,0
+2025-10-20,Laptop,Electronics,2369.28,17,East,Standard,Social Media,1.1,0
+2025-10-20,Laptop,Electronics,882.43,7,South,Premium,In-Store,4.3,0
+2025-10-20,Tablet,Electronics,1317.24,17,North,Standard,Mobile App,2.5,0
+2025-10-21,Mouse,Accessories,978.33,7,South,Premium,Social Media,4.4,0
+2025-10-21,Headphones,Accessories,66.44,13,Central,Premium,In-Store,3.2,0
+2025-10-23,Smartwatch,Wearables,995.39,5,West,Budget,Mobile App,4.6,0
+2025-10-23,Smartphone,Electronics,1989.71,17,Central,Budget,Mobile App,4.7,0
+2025-10-24,Monitor,Electronics,1510.17,3,West,Budget,Social Media,1.0,0
+2025-10-24,Smartphone,Electronics,298.09,7,West,Standard,In-Store,1.3,0
+2025-10-24,Keyboard,Accessories,2125.49,17,Central,Budget,Social Media,2.0,0
+2025-10-25,Smartphone,Electronics,1351.16,7,Central,Premium,Partner,3.7,0
+2025-10-25,Keyboard,Accessories,2112.22,1,South,Budget,Mobile App,4.6,0
+2025-10-25,Speaker,Accessories,1471.54,17,Central,Budget,Social Media,2.8,0
+2025-10-25,Monitor,Electronics,1421.24,17,South,Standard,Mobile App,3.4,0
+2025-10-25,Smartphone,Electronics,307.89,11,South,Standard,In-Store,1.8,0
+2025-10-26,Speaker,Accessories,460.03,3,South,Premium,Website,4.2,0
+2025-10-27,Camera,Electronics,2431.46,15,West,Standard,Social Media,4.9,0
+2025-10-28,Headphones,Accessories,609.79,11,West,Budget,Social Media,2.1,1
+2025-10-29,Speaker,Accessories,2444.76,16,Central,Standard,Mobile App,3.0,0
+2025-10-31,Headphones,Accessories,1353.19,9,West,Premium,In-Store,1.3,0
+2025-10-31,Smartphone,Electronics,382.68,1,Central,Budget,Partner,3.2,0
+2025-11-02,Mouse,Accessories,293.29,16,West,Premium,In-Store,3.0,0
+2025-11-02,Speaker,Accessories,561.72,9,North,Standard,Social Media,1.6,0
+2025-11-02,Monitor,Electronics,2317.81,19,North,Standard,Partner,2.8,0
+2025-11-02,Smartphone,Electronics,1064.67,12,Central,Premium,In-Store,2.3,1
+2025-11-03,Smartwatch,Wearables,1018.81,19,West,Budget,Website,3.1,0
+2025-11-03,Laptop,Electronics,817.36,9,West,Standard,Mobile App,3.3,0
+2025-11-04,Speaker,Accessories,410.3,7,South,Standard,In-Store,1.0,0
+2025-11-05,Monitor,Electronics,1245.24,14,East,Budget,In-Store,4.0,0
+2025-11-05,Camera,Electronics,368.62,19,Central,Standard,Website,3.9,0
+2025-11-06,Smartwatch,Wearables,2096.93,19,East,Premium,Social Media,2.5,0
+2025-11-06,Camera,Electronics,957.47,2,East,Standard,Mobile App,1.2,0
+2025-11-06,Smartphone,Electronics,968.27,9,Central,Standard,In-Store,4.0,0
+2025-11-07,Laptop,Electronics,1211.32,13,West,Budget,Partner,4.8,0
+2025-11-07,Speaker,Accessories,1138.11,15,Central,Premium,In-Store,2.0,0
+2025-11-11,Speaker,Accessories,2487.4,3,East,Budget,Mobile App,2.3,0
+2025-11-12,Mouse,Accessories,1386.18,11,West,Standard,In-Store,1.7,0
+2025-11-12,Mouse,Accessories,266.09,14,North,Standard,Website,3.3,0
+2025-11-12,Smartphone,Electronics,1536.85,8,Central,Budget,In-Store,1.6,0
+2025-11-12,Smartphone,Electronics,421.38,18,Central,Budget,In-Store,2.4,0
+2025-11-12,Laptop,Electronics,125.8,19,West,Budget,Partner,3.8,0
+2025-11-14,Mouse,Accessories,2428.32,16,North,Premium,Website,3.2,0
+2025-11-14,Monitor,Electronics,1945.17,2,North,Standard,Website,2.5,0
+2025-11-14,Monitor,Electronics,2451.27,8,West,Budget,In-Store,2.7,0
+2025-11-15,Laptop,Electronics,1220.8,6,South,Standard,Partner,3.2,0
+2025-11-15,Monitor,Electronics,1354.03,12,Central,Premium,In-Store,1.0,0
+2025-11-15,Keyboard,Accessories,462.43,15,Central,Premium,In-Store,1.3,0
+2025-11-16,Headphones,Accessories,654.92,8,East,Premium,Mobile App,4.5,0
+2025-11-17,Laptop,Electronics,2104.45,4,West,Premium,Mobile App,1.3,0
+2025-11-18,Laptop,Electronics,922.65,15,East,Standard,Partner,3.8,0
+2025-11-19,Tablet,Electronics,2075.7,17,East,Premium,Social Media,4.7,0
+2025-11-19,Smartwatch,Wearables,1787.08,13,North,Premium,Mobile App,2.1,0
+2025-11-20,Smartwatch,Wearables,484.07,18,Central,Budget,Social Media,2.5,0
+2025-11-20,Keyboard,Accessories,1293.24,2,East,Premium,Website,3.3,0
+2025-11-21,Mouse,Accessories,1709.6,13,North,Budget,Mobile App,4.5,0
+2025-11-21,Smartphone,Electronics,625.84,13,West,Premium,Mobile App,4.8,0
+2025-11-22,Smartphone,Electronics,2085.19,15,East,Premium,Partner,4.0,0
+2025-11-22,Camera,Electronics,1384.83,10,Central,Budget,Social Media,1.3,0
+2025-11-22,Keyboard,Accessories,454.84,3,East,Premium,Mobile App,3.7,0
+2025-11-22,Laptop,Electronics,1478.31,19,West,Standard,Mobile App,2.6,0
+2025-11-23,Keyboard,Accessories,2499.3,3,East,Standard,Partner,2.9,0
+2025-11-25,Keyboard,Accessories,418.78,14,Central,Premium,Partner,1.2,0
+2025-11-26,Keyboard,Accessories,2051.05,8,North,Standard,Social Media,1.8,0
+2025-11-27,Smartwatch,Wearables,557.91,4,Central,Budget,Website,4.2,0
+2025-11-28,Keyboard,Accessories,1966.85,11,North,Premium,Website,2.8,0
+2025-11-28,Headphones,Accessories,1849.72,11,South,Premium,In-Store,2.2,0
+2025-11-29,Smartphone,Electronics,786.2,11,Central,Budget,Mobile App,2.5,0
+2025-11-29,Camera,Electronics,848.27,2,Central,Budget,Social Media,4.4,0
+2025-11-29,Headphones,Accessories,1991.68,17,West,Budget,Mobile App,4.0,0
+2025-11-29,Camera,Electronics,1180.54,9,East,Premium,Social Media,2.1,1
+2025-11-30,Tablet,Electronics,1840.5,2,North,Budget,Social Media,1.5,0
+2025-11-30,Camera,Electronics,412.56,15,North,Budget,Social Media,2.0,0
+2025-12-01,Smartphone,Electronics,2138.77,16,West,Standard,Mobile App,4.7,1
+2025-12-02,Smartphone,Electronics,1791.67,4,West,Standard,Partner,3.3,0
+2025-12-03,Keyboard,Accessories,2272.01,8,East,Premium,Mobile App,3.1,0
+2025-12-04,Speaker,Accessories,374.31,9,East,Standard,Social Media,3.4,0
+2025-12-04,Tablet,Electronics,1502.89,5,Central,Standard,In-Store,2.5,0
+2025-12-04,Laptop,Electronics,1517.85,16,South,Budget,Website,4.2,0
+2025-12-06,Monitor,Electronics,915.98,13,East,Budget,Social Media,3.1,0
+2025-12-09,Camera,Electronics,1173.24,7,West,Standard,In-Store,1.5,0
+2025-12-09,Speaker,Accessories,143.05,17,East,Standard,Partner,1.5,0
+2025-12-10,Keyboard,Accessories,1877.36,3,North,Standard,Social Media,3.1,0
+2025-12-10,Smartwatch,Wearables,1395.84,5,South,Premium,In-Store,4.7,0
+2025-12-10,Laptop,Electronics,191.47,19,Central,Premium,Social Media,2.2,0
+2025-12-11,Mouse,Accessories,1717.85,12,North,Premium,Mobile App,4.5,0
+2025-12-14,Speaker,Accessories,1193.62,7,North,Standard,In-Store,4.1,0
+2025-12-14,Smartwatch,Wearables,134.43,9,South,Standard,Mobile App,2.0,0
+2025-12-14,Tablet,Electronics,2425.54,6,Central,Premium,Mobile App,1.1,0
+2025-12-15,Keyboard,Accessories,2375.32,17,West,Premium,In-Store,1.4,0
+2025-12-17,Laptop,Electronics,1306.61,16,Central,Standard,Website,3.9,0
+2025-12-18,Laptop,Electronics,279.5,3,East,Budget,In-Store,1.8,0
+2025-12-19,Laptop,Electronics,1898.82,4,North,Premium,Website,2.5,0
+2025-12-20,Tablet,Electronics,1255.23,10,East,Standard,Social Media,3.0,1
+2025-12-20,Camera,Electronics,791.0,5,West,Standard,Social Media,3.9,0
+2025-12-24,Mouse,Accessories,1253.97,10,East,Budget,In-Store,1.5,0
+2025-12-24,Tablet,Electronics,1329.99,12,Central,Standard,Social Media,2.6,0
+2025-12-25,Monitor,Electronics,1428.64,10,East,Standard,Partner,2.9,0
+2025-12-26,Mouse,Accessories,1131.0,13,West,Premium,Mobile App,3.2,0
+2025-12-26,Smartphone,Electronics,1534.1,11,West,Premium,Mobile App,4.3,0
+2025-12-27,Keyboard,Accessories,2300.9,16,West,Budget,Website,1.7,0
+2025-12-27,Tablet,Electronics,937.56,8,Central,Budget,Social Media,4.2,0
+2025-12-27,Smartwatch,Wearables,1828.01,8,West,Standard,Website,3.8,0
+2025-12-28,Mouse,Accessories,2241.41,8,North,Premium,Mobile App,3.2,0
+2025-12-29,Monitor,Electronics,1167.15,13,West,Budget,Mobile App,3.8,0
+2025-12-29,Smartphone,Electronics,1136.47,2,East,Budget,Social Media,2.6,0
+2025-12-30,Camera,Electronics,1525.19,12,East,Budget,Partner,1.6,0
+2025-12-30,Smartwatch,Wearables,1498.95,10,East,Standard,Partner,3.7,0
+2025-12-30,Mouse,Accessories,2026.14,12,Central,Premium,Social Media,3.1,1

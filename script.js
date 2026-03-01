@@ -169,17 +169,20 @@ document.addEventListener('DOMContentLoaded', () => {
     // 8. COUNTER ANIMATION
     // =====================================
     function animateCounter(el) {
-        const target = parseInt(el.getAttribute('data-count'));
+        const targetStr = el.getAttribute('data-count');
+        const isFloat = targetStr.includes('.');
+        const target = parseFloat(targetStr);
+        if (isNaN(target)) return;
         const duration = 2000;
         const start = performance.now();
         function update(now) {
             const elapsed = now - start;
             const progress = Math.min(elapsed / duration, 1);
             const eased = 1 - Math.pow(1 - progress, 3);
-            const current = Math.floor(eased * target);
+            const current = eased * target;
             if (target >= 1000000) el.textContent = (current / 1000000).toFixed(1) + 'M+';
-            else if (target >= 1000) el.textContent = (current / 1000).toFixed(1) + 'K+';
-            else el.textContent = current + (el.closest('.hero-stat') ? '' : '+');
+            else if (target > 1000 && !isFloat) el.textContent = (current / 1000).toFixed(1) + 'K+';
+            else el.textContent = isFloat ? current.toFixed(1) : Math.floor(current) + (el.closest('.hero-stat') ? '' : '+');
             if (progress < 1) requestAnimationFrame(update);
         }
         requestAnimationFrame(update);
@@ -269,13 +272,93 @@ document.addEventListener('DOMContentLoaded', () => {
     const lineCanvas = document.getElementById('line-chart');
     const lineCtx = lineCanvas ? lineCanvas.getContext('2d') : null;
 
-    const chartData = {
-        revenue: [30, 45, 55, 40, 65, 80, 70, 90, 85, 110, 95, 120],
-        users: [10, 18, 25, 22, 35, 42, 38, 50, 55, 60, 65, 75],
-        orders: [5, 12, 18, 15, 28, 35, 30, 40, 45, 50, 48, 58]
+    let chartData = {
+        revenue: [],
+        users: [],
+        orders: []
     };
-    const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+    let months = [];
+    // Data tables will use this array
+    let tableData = [];
     let currentChart = 'revenue';
+
+    // Fetch and Parse CSV
+    Papa.parse('data/sales_data.csv', {
+        download: true,
+        header: true,
+        dynamicTyping: true,
+        complete: function (results) {
+            const data = results.data.filter(row => row.date); // Filter out empty rows
+
+            // Group by month
+            const monthlyData = {};
+            data.forEach(row => {
+                const date = new Date(row.date);
+                const monthKey = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
+                if (!monthlyData[monthKey]) {
+                    monthlyData[monthKey] = { revenue: 0, users: 0, orders: 0 };
+                }
+                monthlyData[monthKey].revenue += row.revenue || 0;
+                monthlyData[monthKey].orders += row.quantity || 0;
+                // Simulate unique users based on orders
+                monthlyData[monthKey].users += Math.ceil((row.quantity || 0) * 0.8);
+            });
+
+            // Sort months and extract last 12 months
+            const sortedMonths = Object.keys(monthlyData).sort().slice(-12);
+
+            // Format months for display (e.g., "Jan", "Feb")
+            const monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+            months = sortedMonths.map(m => monthNames[parseInt(m.split('-')[1]) - 1]);
+
+            // Populate chart data
+            sortedMonths.forEach(m => {
+                chartData.revenue.push(Math.round(monthlyData[m].revenue / 1000)); // in thousands
+                chartData.orders.push(monthlyData[m].orders);
+                chartData.users.push(monthlyData[m].users);
+            });
+
+            // --- 2. Update KPI Cards ---
+            const totalRows = data.length;
+            const totalRevenue = data.reduce((sum, row) => sum + (row.revenue || 0), 0);
+            const avgRating = data.reduce((sum, row) => sum + (row.rating || 0), 0) / (totalRows || 1);
+            const returnCount = data.filter(row => row.return_flag === 1).length;
+            const returnRate = (returnCount / (totalRows || 1)) * 100;
+
+            const kpiRows = document.getElementById('kpi-rows');
+            const kpiRev = document.getElementById('kpi-revenue');
+            const kpiRate = document.getElementById('kpi-rating');
+            const kpiRet = document.getElementById('kpi-returns');
+
+            if (kpiRows) kpiRows.setAttribute('data-count', totalRows);
+            if (kpiRev) kpiRev.setAttribute('data-count', Math.round(totalRevenue));
+            if (kpiRate) kpiRate.setAttribute('data-count', avgRating.toFixed(1));
+            if (kpiRet) kpiRet.setAttribute('data-count', returnRate.toFixed(1));
+
+            // Re-trigger counter animation for KPIs since data was loaded dynamically
+            document.querySelectorAll('.kpi-value').forEach(el => {
+                el.classList.remove('counted');
+                animateCounter(el);
+            });
+
+            // --- 3. Update Table Data ---
+            tableData = data.slice(0, 150).map(row => ({
+                date: row.date,
+                product: row.product,
+                category: row.category,
+                revenue: row.revenue || 0,
+                quantity: row.quantity || 0
+            }));
+            // Sort by recent dates first
+            tableData.sort((a, b) => new Date(b.date) - new Date(a.date));
+            if (typeof renderTable === 'function') {
+                renderTable(); // Defined later in script.js, hoisted
+            }
+
+            // Initial Draw
+            drawLineChart(chartData[currentChart], chartColors[currentChart]);
+        }
+    });
 
     function drawLineChart(data, color = '#6c5ce7') {
         if (!lineCtx) return;
@@ -361,7 +444,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     const chartColors = { revenue: '#6c5ce7', users: '#00cec9', orders: '#e17055' };
-    drawLineChart(chartData[currentChart], chartColors[currentChart]);
+    // drawLineChart is now called inside the PapaParse complete callback
 
     document.querySelectorAll('.chart-ctrl-btn').forEach(btn => {
         btn.addEventListener('click', () => {
@@ -440,20 +523,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // =====================================
     // 13. DATA TABLE (Sortable, Searchable, Paginated)
     // =====================================
-    const tableData = [
-        { name: 'Sales Analysis Q4', rows: 245000, accuracy: 97.2, status: 'completed' },
-        { name: 'Customer Segmentation', rows: 180500, accuracy: 94.8, status: 'completed' },
-        { name: 'Revenue Forecasting', rows: 320100, accuracy: 91.5, status: 'running' },
-        { name: 'Churn Prediction', rows: 156000, accuracy: 89.3, status: 'completed' },
-        { name: 'Sentiment Analysis', rows: 92400, accuracy: 86.7, status: 'failed' },
-        { name: 'Supply Chain Optimization', rows: 410000, accuracy: 95.1, status: 'completed' },
-        { name: 'Fraud Detection', rows: 520000, accuracy: 98.4, status: 'running' },
-        { name: 'Market Basket Analysis', rows: 78000, accuracy: 92.0, status: 'completed' },
-        { name: 'Price Elasticity Study', rows: 65000, accuracy: 88.9, status: 'completed' },
-        { name: 'User Behavior Tracking', rows: 290000, accuracy: 93.6, status: 'running' },
-        { name: 'Inventory Forecasting', rows: 175000, accuracy: 90.2, status: 'completed' },
-        { name: 'Social Media Analytics', rows: 430000, accuracy: 87.5, status: 'failed' }
-    ];
+    // Removing hardcoded tableData structure, as it's now dynamically fetched by PapaParse
 
     let sortKey = null;
     let sortAsc = true;
@@ -464,7 +534,10 @@ document.addEventListener('DOMContentLoaded', () => {
     function getFilteredData() {
         let data = [...tableData];
         if (searchTerm) {
-            data = data.filter(d => d.name.toLowerCase().includes(searchTerm.toLowerCase()));
+            data = data.filter(d =>
+                (d.product && d.product.toLowerCase().includes(searchTerm.toLowerCase())) ||
+                (d.category && d.category.toLowerCase().includes(searchTerm.toLowerCase()))
+            );
         }
         if (sortKey) {
             data.sort((a, b) => {
@@ -489,11 +562,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
         tbody.innerHTML = pageData.map(d => `
             <tr>
-                <td style="font-weight:600; color: var(--color-text)">${d.name}</td>
-                <td>${d.rows.toLocaleString()}</td>
-                <td>${d.accuracy}%</td>
-                <td><span class="status-badge ${d.status}">${d.status.charAt(0).toUpperCase() + d.status.slice(1)}</span></td>
-                <td><button class="table-action-btn" onclick="viewReport('${d.name}')">View</button></td>
+                <td style="font-weight:600; color: var(--color-text)">${d.date}</td>
+                <td>${d.product}</td>
+                <td><span class="status-badge completed">${d.category}</span></td>
+                <td>$${parseFloat(d.revenue).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}</td>
+                <td>${d.quantity}</td>
             </tr>
         `).join('');
 

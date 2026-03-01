@@ -4,8 +4,8 @@
   "description": "Prismlytics — A comprehensive data analysis toolkit for exploring, visualizing, and deriving insights from complex datasets.",
   "main": "index.html",
   "scripts": {
-    "dev": "npx -y live-server --port=3000 --open",
-    "start": "npx -y live-server --port=3000 --open",
+    "dev": "npx -y live-server . --port=3000 --open",
+    "start": "npx -y live-server . --port=3000 --open",
     "build": "echo 'Static site — no build step needed. Ready to deploy!'",
     "deploy": "echo 'Deploy the project root to any static host (GitHub Pages, Netlify, Vercel)'"
   },

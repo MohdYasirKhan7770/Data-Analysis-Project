@@ -393,34 +393,34 @@
                     <div class="kpi-card glass-card">
                         <div class="kpi-icon" style="background: rgba(108,92,231,0.15); color: #a29bfe;">📋</div>
                         <div class="kpi-info">
-                            <span class="kpi-value" data-count="1000000">0</span>
+                            <span class="kpi-value" data-count="0" id="kpi-rows">0</span>
                             <span class="kpi-label">Total Rows Processed</span>
                         </div>
-                        <span class="kpi-trend up">↑ 12.5%</span>
+                        <span class="kpi-trend up" id="kpi-trend-rows">↑ Python/Pandas</span>
                     </div>
                     <div class="kpi-card glass-card">
-                        <div class="kpi-icon" style="background: rgba(0,206,201,0.15); color: #81ecec;">🤖</div>
+                        <div class="kpi-icon" style="background: rgba(0,206,201,0.15); color: #81ecec;">💰</div>
                         <div class="kpi-info">
-                            <span class="kpi-value" data-count="25">0</span>
-                            <span class="kpi-label">ML Models Trained</span>
+                            <span class="kpi-value" data-count="0" id="kpi-revenue">0</span>
+                            <span class="kpi-label">Total Revenue ($)</span>
                         </div>
-                        <span class="kpi-trend up">↑ 8.3%</span>
+                        <span class="kpi-trend up">↑ Live Data</span>
                     </div>
                     <div class="kpi-card glass-card">
-                        <div class="kpi-icon" style="background: rgba(225,112,85,0.15); color: #fab1a0;">📊</div>
+                        <div class="kpi-icon" style="background: rgba(225,112,85,0.15); color: #fab1a0;">⭐</div>
                         <div class="kpi-info">
-                            <span class="kpi-value" data-count="120">0</span>
-                            <span class="kpi-label">Charts Generated</span>
+                            <span class="kpi-value" data-count="0" id="kpi-rating">0</span>
+                            <span class="kpi-label">Average Rating / 5</span>
                         </div>
-                        <span class="kpi-trend up">↑ 22.1%</span>
+                        <span class="kpi-trend up">↑ Live Data</span>
                     </div>
                     <div class="kpi-card glass-card">
-                        <div class="kpi-icon" style="background: rgba(0,184,148,0.15); color: #55efc4;">🗄️</div>
+                        <div class="kpi-icon" style="background: rgba(0,184,148,0.15); color: #55efc4;">🔁</div>
                         <div class="kpi-info">
-                            <span class="kpi-value" data-count="8">0</span>
-                            <span class="kpi-label">Data Sources</span>
+                            <span class="kpi-value" data-count="0" id="kpi-returns">0</span>
+                            <span class="kpi-label">Return Rate (%)</span>
                         </div>
-                        <span class="kpi-trend neutral">— Same</span>
+                        <span class="kpi-trend neutral">— Live Data</span>
                     </div>
                 </div>
 
@@ -464,11 +464,11 @@
                         <table class="data-table" id="data-table">
                             <thead>
                                 <tr>
-                                    <th data-sort="name">Dataset <span class="sort-icon">⇅</span></th>
-                                    <th data-sort="rows">Rows <span class="sort-icon">⇅</span></th>
-                                    <th data-sort="accuracy">Accuracy <span class="sort-icon">⇅</span></th>
-                                    <th data-sort="status">Status <span class="sort-icon">⇅</span></th>
-                                    <th>Actions</th>
+                                    <th data-sort="date">Date <span class="sort-icon">⇅</span></th>
+                                    <th data-sort="product">Product <span class="sort-icon">⇅</span></th>
+                                    <th data-sort="category">Category <span class="sort-icon">⇅</span></th>
+                                    <th data-sort="revenue">Revenue ($) <span class="sort-icon">⇅</span></th>
+                                    <th data-sort="quantity">Quantity <span class="sort-icon">⇅</span></th>
                                 </tr>
                             </thead>
                             <tbody id="table-body">
@@ -745,6 +745,8 @@ plt.<span class="code-function">show</span>()</code></pre>
     <!-- ===== Toast Notification ===== -->
     <div class="toast-container" id="toast-container"></div>
 
+    <!-- ===== JS Libraries ===== -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
     <script src="script.js"></script>
 </body>
 
